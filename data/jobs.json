@@ -1,0 +1,1039 @@
+[
+  {
+    "id": "job_001",
+    "title": "Senior Python Developer",
+    "description": "We are looking for an experienced Python developer to join our backend team. You will be responsible for developing scalable web applications using FastAPI and Django, working with PostgreSQL databases, and implementing CI/CD pipelines.",
+    "skills": ["python", "fastapi", "django", "postgresql", "docker", "aws"],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 65000,
+    "salary_max": 85000,
+    "remote": false,
+    "created_at": "2025-09-10T09:00:00Z"
+  },
+  {
+    "id": "job_002",
+    "title": "Frontend React Developer",
+    "description": "Join our innovative team to build cutting-edge React applications. Experience with TypeScript, Redux, and modern CSS frameworks required. You'll work on user-facing features and collaborate with our design team.",
+    "skills": ["react", "typescript", "redux", "css", "javascript", "webpack"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 55000,
+    "salary_max": 70000,
+    "remote": true,
+    "created_at": "2025-09-09T14:30:00Z"
+  },
+  {
+    "id": "job_003",
+    "title": "DevOps Engineer",
+    "description": "Seeking a DevOps engineer to manage our cloud infrastructure. Experience with Kubernetes, Docker, and CI/CD pipelines essential. You'll work on automating deployments and ensuring system reliability.",
+    "skills": ["kubernetes", "docker", "terraform", "aws", "jenkins", "monitoring"],
+    "location": {
+      "city": "Utrecht",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "nl",
+    "salary_min": 70000,
+    "salary_max": 90000,
+    "remote": false,
+    "created_at": "2025-09-08T11:15:00Z"
+  },
+  {
+    "id": "job_004",
+    "title": "Data Scientist",
+    "description": "We need a data scientist to analyze large datasets and build machine learning models. Strong background in Python, pandas, scikit-learn, and statistical analysis required.",
+    "skills": ["python", "pandas", "scikit-learn", "sql", "statistics", "jupyter"],
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "fr",
+    "salary_min": 50000,
+    "salary_max": 65000,
+    "remote": true,
+    "created_at": "2025-09-07T16:45:00Z"
+  },
+  {
+    "id": "job_005",
+    "title": "Junior Java Developer",
+    "description": "Great opportunity for a junior developer to grow. You'll work with Spring Boot, learn about microservices architecture, and contribute to enterprise applications.",
+    "skills": ["java", "spring-boot", "maven", "junit", "git", "sql"],
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "junior",
+    "language": "nl",
+    "salary_min": 35000,
+    "salary_max": 45000,
+    "remote": false,
+    "created_at": "2025-09-06T10:00:00Z"
+  },
+  {
+    "id": "job_006",
+    "title": "Machine Learning Engineer",
+    "description": "Build and deploy ML models at scale. Experience with TensorFlow, PyTorch, and MLOps practices needed. You'll work on recommendation systems and natural language processing.",
+    "skills": ["python", "tensorflow", "pytorch", "mlops", "kubernetes", "gcp"],
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 80000,
+    "salary_max": 100000,
+    "remote": true,
+    "created_at": "2025-09-05T13:20:00Z"
+  },
+  {
+    "id": "job_007",
+    "title": "Full Stack Developer",
+    "description": "Work on both frontend and backend development. Tech stack includes React, Node.js, and MongoDB. Perfect for someone who enjoys variety in their daily tasks.",
+    "skills": ["react", "nodejs", "mongodb", "express", "javascript", "css"],
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "employment_type": "contract",
+    "seniority": "mid",
+    "language": "es",
+    "salary_min": 45000,
+    "salary_max": 60000,
+    "remote": false,
+    "created_at": "2025-09-04T08:30:00Z"
+  },
+  {
+    "id": "job_008",
+    "title": "QA Automation Engineer",
+    "description": "Develop and maintain automated testing frameworks. Experience with Selenium, Cypress, and API testing tools required. Help ensure product quality and reliability.",
+    "skills": ["selenium", "cypress", "python", "testing", "api-testing", "jenkins"],
+    "location": {
+      "city": "The Hague",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 50000,
+    "salary_max": 65000,
+    "remote": true,
+    "created_at": "2025-09-03T15:00:00Z"
+  },
+  {
+    "id": "job_009",
+    "title": "iOS Developer",
+    "description": "Develop native iOS applications using Swift. Experience with UIKit, Core Data, and App Store deployment process needed. Join our mobile development team.",
+    "skills": ["swift", "ios", "uikit", "core-data", "xcode", "objective-c"],
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 60000,
+    "salary_max": 75000,
+    "remote": false,
+    "created_at": "2025-09-02T12:10:00Z"
+  },
+  {
+    "id": "job_010",
+    "title": "Database Administrator",
+    "description": "Manage and optimize PostgreSQL and MySQL databases. Experience with performance tuning, backup strategies, and high availability setups required.",
+    "skills": ["postgresql", "mysql", "sql", "database-tuning", "backup", "monitoring"],
+    "location": {
+      "city": "Eindhoven",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "nl",
+    "salary_min": 65000,
+    "salary_max": 80000,
+    "remote": false,
+    "created_at": "2025-09-01T09:45:00Z"
+  },
+  {
+    "id": "job_011",
+    "title": "Product Manager",
+    "description": "Lead product development from conception to launch. Strong analytical skills and experience with agile methodologies required. Work closely with engineering and design teams.",
+    "skills": ["product-management", "agile", "jira", "analytics", "stakeholder-management", "strategy"],
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 70000,
+    "salary_max": 90000,
+    "remote": true,
+    "created_at": "2025-08-31T14:25:00Z"
+  },
+  {
+    "id": "job_012",
+    "title": "Cybersecurity Analyst",
+    "description": "Protect our systems from security threats. Experience with SIEM tools, penetration testing, and incident response needed. Help maintain our security posture.",
+    "skills": ["cybersecurity", "siem", "penetration-testing", "incident-response", "networking", "linux"],
+    "location": {
+      "city": "Brussels",
+      "country": "Belgium"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "fr",
+    "salary_min": 55000,
+    "salary_max": 70000,
+    "remote": true,
+    "created_at": "2025-08-30T11:30:00Z"
+  },
+  {
+    "id": "job_013",
+    "title": "UX/UI Designer",
+    "description": "Design intuitive and beautiful user interfaces. Experience with Figma, user research, and prototyping required. Collaborate with product and engineering teams.",
+    "skills": ["figma", "sketch", "user-research", "prototyping", "design-systems", "usability-testing"],
+    "location": {
+      "city": "Milan",
+      "country": "Italy"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "it",
+    "salary_min": 45000,
+    "salary_max": 60000,
+    "remote": false,
+    "created_at": "2025-08-29T16:15:00Z"
+  },
+  {
+    "id": "job_014",
+    "title": "Blockchain Developer",
+    "description": "Develop decentralized applications and smart contracts. Experience with Ethereum, Solidity, and Web3 technologies required. Work on cutting-edge blockchain projects.",
+    "skills": ["solidity", "ethereum", "web3", "blockchain", "smart-contracts", "javascript"],
+    "location": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "employment_type": "contract",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 90000,
+    "salary_max": 120000,
+    "remote": true,
+    "created_at": "2025-08-28T10:20:00Z"
+  },
+  {
+    "id": "job_015",
+    "title": "Technical Writer",
+    "description": "Create comprehensive technical documentation for our APIs and products. Experience with documentation tools and ability to explain complex concepts clearly needed.",
+    "skills": ["technical-writing", "markdown", "api-documentation", "confluence", "git", "communication"],
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "employment_type": "part-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 30000,
+    "salary_max": 40000,
+    "remote": true,
+    "created_at": "2025-08-27T13:40:00Z"
+  },
+  {
+    "id": "job_016",
+    "title": "Android Developer",
+    "description": "Build native Android applications using Kotlin. Experience with Android SDK, Room database, and Google Play Store deployment required.",
+    "skills": ["kotlin", "android", "android-sdk", "room", "retrofit", "mvvm"],
+    "location": {
+      "city": "Prague",
+      "country": "Czech Republic"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 40000,
+    "salary_max": 55000,
+    "remote": false,
+    "created_at": "2025-08-26T09:10:00Z"
+  },
+  {
+    "id": "job_017",
+    "title": "Site Reliability Engineer",
+    "description": "Ensure high availability and performance of our systems. Experience with monitoring, alerting, and incident management required. Work with distributed systems at scale.",
+    "skills": ["sre", "monitoring", "alerting", "incident-management", "distributed-systems", "golang"],
+    "location": {
+      "city": "Groningen",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "nl",
+    "salary_min": 75000,
+    "salary_max": 95000,
+    "remote": true,
+    "created_at": "2025-08-25T15:55:00Z"
+  },
+  {
+    "id": "job_018",
+    "title": "Business Analyst",
+    "description": "Analyze business requirements and translate them into technical specifications. Strong analytical skills and experience with stakeholder management required.",
+    "skills": ["business-analysis", "requirements-gathering", "stakeholder-management", "documentation", "sql", "excel"],
+    "location": {
+      "city": "Dublin",
+      "country": "Ireland"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 50000,
+    "salary_max": 65000,
+    "remote": false,
+    "created_at": "2025-08-24T12:30:00Z"
+  },
+  {
+    "id": "job_019",
+    "title": "Cloud Architect",
+    "description": "Design and implement cloud-native solutions. Deep experience with AWS, Azure, or GCP required. Lead cloud migration projects and ensure best practices.",
+    "skills": ["cloud-architecture", "aws", "azure", "gcp", "terraform", "microservices"],
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "de",
+    "salary_min": 80000,
+    "salary_max": 100000,
+    "remote": true,
+    "created_at": "2025-08-23T08:15:00Z"
+  },
+  {
+    "id": "job_020",
+    "title": "Data Engineer",
+    "description": "Build and maintain data pipelines. Experience with Apache Spark, Kafka, and data warehousing required. Work with large-scale data processing systems.",
+    "skills": ["spark", "kafka", "python", "sql", "data-warehousing", "etl"],
+    "location": {
+      "city": "Maastricht",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 70000,
+    "salary_max": 85000,
+    "remote": false,
+    "created_at": "2025-08-22T14:45:00Z"
+  },
+  {
+    "id": "job_021",
+    "title": "Scrum Master",
+    "description": "Facilitate agile ceremonies and coach teams on agile practices. Certified Scrum Master with experience in scaled agile frameworks preferred.",
+    "skills": ["scrum", "agile", "coaching", "facilitation", "jira", "scaled-agile"],
+    "location": {
+      "city": "Oslo",
+      "country": "Norway"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 60000,
+    "salary_max": 75000,
+    "remote": true,
+    "created_at": "2025-08-21T11:20:00Z"
+  },
+  {
+    "id": "job_022",
+    "title": "Game Developer",
+    "description": "Develop engaging mobile and web games. Experience with Unity, C#, and game design principles required. Join our creative game development team.",
+    "skills": ["unity", "csharp", "game-development", "game-design", "3d-modeling", "animation"],
+    "location": {
+      "city": "Helsinki",
+      "country": "Finland"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 50000,
+    "salary_max": 65000,
+    "remote": false,
+    "created_at": "2025-08-20T16:35:00Z"
+  },
+  {
+    "id": "job_023",
+    "title": "IT Support Specialist",
+    "description": "Provide technical support to end users. Experience with Windows, macOS, and network troubleshooting required. Help maintain our IT infrastructure.",
+    "skills": ["it-support", "windows", "macos", "networking", "troubleshooting", "help-desk"],
+    "location": {
+      "city": "Tilburg",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "junior",
+    "language": "nl",
+    "salary_min": 30000,
+    "salary_max": 40000,
+    "remote": false,
+    "created_at": "2025-08-19T09:50:00Z"
+  },
+  {
+    "id": "job_024",
+    "title": "AI Research Scientist",
+    "description": "Conduct cutting-edge AI research. PhD in AI/ML or related field preferred. Experience with deep learning, NLP, and computer vision required.",
+    "skills": ["ai", "machine-learning", "deep-learning", "nlp", "computer-vision", "pytorch"],
+    "location": {
+      "city": "Cambridge",
+      "country": "United Kingdom"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 90000,
+    "salary_max": 120000,
+    "remote": true,
+    "created_at": "2025-08-18T13:25:00Z"
+  },
+  {
+    "id": "job_025",
+    "title": "Sales Engineer",
+    "description": "Bridge the gap between sales and engineering. Technical background with strong communication skills required. Help close deals by explaining technical solutions.",
+    "skills": ["sales", "technical-sales", "communication", "presentations", "crm", "solution-architecture"],
+    "location": {
+      "city": "Lyon",
+      "country": "France"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "fr",
+    "salary_min": 55000,
+    "salary_max": 70000,
+    "remote": true,
+    "created_at": "2025-08-17T10:40:00Z"
+  },
+  {
+    "id": "job_026",
+    "title": "Embedded Systems Engineer",
+    "description": "Develop firmware for embedded systems. Experience with C/C++, microcontrollers, and real-time systems required. Work on IoT and hardware projects.",
+    "skills": ["c", "cpp", "embedded", "microcontrollers", "real-time", "iot"],
+    "location": {
+      "city": "Turin",
+      "country": "Italy"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "it",
+    "salary_min": 60000,
+    "salary_max": 75000,
+    "remote": false,
+    "created_at": "2025-08-16T15:30:00Z"
+  },
+  {
+    "id": "job_027",
+    "title": "Network Engineer",
+    "description": "Design and maintain network infrastructure. Experience with Cisco, routing protocols, and network security required. Ensure reliable network connectivity.",
+    "skills": ["networking", "cisco", "routing", "switching", "network-security", "vpn"],
+    "location": {
+      "city": "Breda",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "nl",
+    "salary_min": 55000,
+    "salary_max": 70000,
+    "remote": false,
+    "created_at": "2025-08-15T12:15:00Z"
+  },
+  {
+    "id": "job_028",
+    "title": "Content Marketing Manager",
+    "description": "Create and execute content marketing strategies. Experience with SEO, social media, and content creation tools required. Drive brand awareness and lead generation.",
+    "skills": ["content-marketing", "seo", "social-media", "copywriting", "analytics", "content-strategy"],
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 40000,
+    "salary_max": 55000,
+    "remote": true,
+    "created_at": "2025-08-14T08:45:00Z"
+  },
+  {
+    "id": "job_029",
+    "title": "Database Developer",
+    "description": "Design and optimize database schemas. Experience with SQL Server, stored procedures, and database performance tuning required. Work on data-intensive applications.",
+    "skills": ["sql-server", "sql", "stored-procedures", "database-design", "performance-tuning", "etl"],
+    "location": {
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "pl",
+    "salary_min": 45000,
+    "salary_max": 60000,
+    "remote": false,
+    "created_at": "2025-08-13T14:20:00Z"
+  },
+  {
+    "id": "job_030",
+    "title": "Software Architect",
+    "description": "Design high-level software architecture and guide technical decisions. Extensive experience with distributed systems, design patterns, and technology leadership required.",
+    "skills": ["software-architecture", "distributed-systems", "design-patterns", "leadership", "microservices", "api-design"],
+    "location": {
+      "city": "Haarlem",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 85000,
+    "salary_max": 110000,
+    "remote": true,
+    "created_at": "2025-08-12T11:05:00Z"
+  },
+  {
+    "id": "job_031",
+    "title": "Python Backend Developer",
+    "description": "Ervaren Python ontwikkelaar gezocht voor onze backend team. Je werkt met FastAPI, Django en PostgreSQL om schaalbare webapplicaties te bouwen.",
+    "skills": ["python", "fastapi", "django", "postgresql", "docker", "redis"],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "nl",
+    "salary_min": 55000,
+    "salary_max": 75000,
+    "remote": false,
+    "created_at": "2025-09-11T10:00:00Z"
+  },
+  {
+    "id": "job_032",
+    "title": "Senior Machine Learning Engineer",
+    "description": "Build and deploy ML models at scale. Experience with TensorFlow, PyTorch, and MLOps required. Work on computer vision and NLP projects.",
+    "skills": ["python", "tensorflow", "pytorch", "mlops", "kubernetes", "docker"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 80000,
+    "salary_max": 100000,
+    "remote": true,
+    "created_at": "2025-09-11T11:00:00Z"
+  },
+  {
+    "id": "job_033",
+    "title": "Full Stack Developer",
+    "description": "We zoeken een full stack ontwikkelaar voor onze innovatieve projecten. Ervaring met React, Node.js en PostgreSQL vereist.",
+    "skills": ["javascript", "react", "nodejs", "postgresql", "docker", "git"],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "nl",
+    "salary_min": 50000,
+    "salary_max": 70000,
+    "remote": false,
+    "created_at": "2025-09-11T12:00:00Z"
+  },
+  {
+    "id": "job_034",
+    "title": "Data Engineer",
+    "description": "Build robust data pipelines and infrastructure. Experience with Apache Spark, Kafka, and cloud platforms required.",
+    "skills": ["python", "spark", "kafka", "aws", "sql", "airflow"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 70000,
+    "salary_max": 90000,
+    "remote": true,
+    "created_at": "2025-09-11T13:00:00Z"
+  },
+  {
+    "id": "job_035",
+    "title": "Frontend Developer",
+    "description": "Moderne webapplicaties bouwen met React en TypeScript. Je werkt in een agile team aan gebruiksvriendelijke interfaces.",
+    "skills": ["react", "typescript", "javascript", "css", "html", "webpack"],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "junior",
+    "language": "nl",
+    "salary_min": 40000,
+    "salary_max": 55000,
+    "remote": false,
+    "created_at": "2025-09-11T14:00:00Z"
+  },
+  {
+    "id": "job_036",
+    "title": "AI Research Scientist",
+    "description": "Conduct cutting-edge research in artificial intelligence. PhD in CS or related field required. Focus on deep learning and computer vision.",
+    "skills": ["python", "tensorflow", "pytorch", "research", "deep-learning", "computer-vision"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 90000,
+    "salary_max": 120000,
+    "remote": true,
+    "created_at": "2025-09-11T15:00:00Z"
+  },
+  {
+    "id": "job_037",
+    "title": "Java Developer",
+    "description": "Ervaren Java ontwikkelaar voor enterprise applicaties. Kennis van Spring Boot, microservices en cloud platforms gewenst.",
+    "skills": ["java", "spring-boot", "microservices", "postgresql", "docker", "kubernetes"],
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "nl",
+    "salary_min": 65000,
+    "salary_max": 85000,
+    "remote": false,
+    "created_at": "2025-09-11T16:00:00Z"
+  },
+  {
+    "id": "job_038",
+    "title": "Cloud Architect",
+    "description": "Design and implement cloud solutions on AWS and Azure. Experience with infrastructure as code and DevOps practices required.",
+    "skills": ["aws", "azure", "terraform", "kubernetes", "docker", "devops"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 85000,
+    "salary_max": 110000,
+    "remote": true,
+    "created_at": "2025-09-11T17:00:00Z"
+  },
+  {
+    "id": "job_039",
+    "title": "Product Manager",
+    "description": "Lead product development from conception to launch. Experience with agile methodologies and user research required.",
+    "skills": ["product-management", "agile", "user-research", "analytics", "roadmapping", "stakeholder-management"],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 70000,
+    "salary_max": 95000,
+    "remote": true,
+    "created_at": "2025-09-11T18:00:00Z"
+  },
+  {
+    "id": "job_040",
+    "title": "Mobile App Developer",
+    "description": "Develop native mobile applications for iOS and Android. Experience with React Native or Flutter preferred.",
+    "skills": ["react-native", "flutter", "ios", "android", "javascript", "dart"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 60000,
+    "salary_max": 80000,
+    "remote": true,
+    "created_at": "2025-09-11T19:00:00Z"
+  },
+  {
+    "id": "job_041",
+    "title": "Security Engineer",
+    "description": "Beveiligingsspecialist voor onze infrastructuur en applicaties. Kennis van penetration testing en security frameworks vereist.",
+    "skills": ["cybersecurity", "penetration-testing", "security-frameworks", "networking", "incident-response", "compliance"],
+    "location": {
+      "city": "The Hague",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "nl",
+    "salary_min": 75000,
+    "salary_max": 95000,
+    "remote": false,
+    "created_at": "2025-09-11T20:00:00Z"
+  },
+  {
+    "id": "job_042",
+    "title": "UX/UI Designer",
+    "description": "Create intuitive and beautiful user experiences. Experience with Figma, user research, and design systems required.",
+    "skills": ["ux-design", "ui-design", "figma", "user-research", "prototyping", "design-systems"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 55000,
+    "salary_max": 75000,
+    "remote": true,
+    "created_at": "2025-09-11T21:00:00Z"
+  },
+  {
+    "id": "job_043",
+    "title": "Blockchain Developer",
+    "description": "Build decentralized applications and smart contracts. Experience with Solidity, Web3, and Ethereum required.",
+    "skills": ["blockchain", "solidity", "web3", "ethereum", "javascript", "nodejs"],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 70000,
+    "salary_max": 90000,
+    "remote": true,
+    "created_at": "2025-09-11T22:00:00Z"
+  },
+  {
+    "id": "job_044",
+    "title": "Data Scientist",
+    "description": "Analyze complex datasets and build predictive models. Strong background in statistics, Python, and machine learning required.",
+    "skills": ["python", "machine-learning", "statistics", "pandas", "scikit-learn", "jupyter"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 65000,
+    "salary_max": 85000,
+    "remote": true,
+    "created_at": "2025-09-11T23:00:00Z"
+  },
+  {
+    "id": "job_045",
+    "title": "Site Reliability Engineer",
+    "description": "Zorgen voor de betrouwbaarheid en performance van onze systemen. Ervaring met monitoring, automation en incident response.",
+    "skills": ["sre", "monitoring", "automation", "kubernetes", "prometheus", "grafana"],
+    "location": {
+      "city": "Utrecht",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "nl",
+    "salary_min": 70000,
+    "salary_max": 90000,
+    "remote": false,
+    "created_at": "2025-09-12T08:00:00Z"
+  },
+  {
+    "id": "job_046",
+    "title": "Technical Writer",
+    "description": "Create comprehensive technical documentation and guides. Experience with API documentation and developer tools required.",
+    "skills": ["technical-writing", "documentation", "api-documentation", "markdown", "git", "content-strategy"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 50000,
+    "salary_max": 65000,
+    "remote": true,
+    "created_at": "2025-09-12T09:00:00Z"
+  },
+  {
+    "id": "job_047",
+    "title": "Quality Assurance Engineer",
+    "description": "Automated testing specialist for web applications. Experience with Selenium, Cypress, and CI/CD integration required.",
+    "skills": ["qa", "selenium", "cypress", "automated-testing", "python", "jenkins"],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 55000,
+    "salary_max": 70000,
+    "remote": false,
+    "created_at": "2025-09-12T10:00:00Z"
+  },
+  {
+    "id": "job_048",
+    "title": "Backend Engineer",
+    "description": "Scala developer for high-performance distributed systems. Experience with microservices and event-driven architecture.",
+    "skills": ["scala", "akka", "kafka", "microservices", "distributed-systems", "postgresql"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 75000,
+    "salary_max": 95000,
+    "remote": true,
+    "created_at": "2025-09-12T11:00:00Z"
+  },
+  {
+    "id": "job_049",
+    "title": "Network Engineer",
+    "description": "Beheer en onderhoud van netwerkinfrastructuur. Ervaring met Cisco, routing protocols en network security vereist.",
+    "skills": ["networking", "cisco", "routing", "switching", "network-security", "vpn"],
+    "location": {
+      "city": "Eindhoven",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "nl",
+    "salary_min": 60000,
+    "salary_max": 80000,
+    "remote": false,
+    "created_at": "2025-09-12T12:00:00Z"
+  },
+  {
+    "id": "job_050",
+    "title": "Solutions Architect",
+    "description": "Design end-to-end solutions for enterprise clients. Strong background in cloud platforms and system integration.",
+    "skills": ["solution-architecture", "aws", "azure", "system-integration", "enterprise-architecture", "consulting"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 85000,
+    "salary_max": 110000,
+    "remote": true,
+    "created_at": "2025-09-12T13:00:00Z"
+  },
+  {
+    "id": "job_051",
+    "title": "Database Administrator",
+    "description": "PostgreSQL en MySQL database beheerder. Verantwoordelijk voor performance tuning, backups en security.",
+    "skills": ["postgresql", "mysql", "database-administration", "performance-tuning", "backup-recovery", "sql"],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "nl",
+    "salary_min": 65000,
+    "salary_max": 80000,
+    "remote": false,
+    "created_at": "2025-09-12T14:00:00Z"
+  },
+  {
+    "id": "job_052",
+    "title": "MLOps Engineer",
+    "description": "Deploy and manage machine learning models in production. Experience with Kubernetes, Docker, and ML frameworks required.",
+    "skills": ["mlops", "kubernetes", "docker", "python", "tensorflow", "monitoring"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 75000,
+    "salary_max": 95000,
+    "remote": true,
+    "created_at": "2025-09-12T15:00:00Z"
+  },
+  {
+    "id": "job_053",
+    "title": "Game Developer",
+    "description": "Unity game developer voor mobile en desktop games. Ervaring met C#, game design en 3D graphics gewenst.",
+    "skills": ["unity", "csharp", "game-development", "3d-graphics", "mobile-development", "game-design"],
+    "location": {
+      "city": "Utrecht",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "nl",
+    "salary_min": 50000,
+    "salary_max": 70000,
+    "remote": false,
+    "created_at": "2025-09-12T16:00:00Z"
+  },
+  {
+    "id": "job_054",
+    "title": "Platform Engineer",
+    "description": "Build and maintain developer platforms and tooling. Experience with Kubernetes, CI/CD, and infrastructure automation.",
+    "skills": ["platform-engineering", "kubernetes", "ci-cd", "terraform", "docker", "automation"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 80000,
+    "salary_max": 100000,
+    "remote": true,
+    "created_at": "2025-09-12T17:00:00Z"
+  },
+  {
+    "id": "job_055",
+    "title": "Embedded Systems Engineer",
+    "description": "C/C++ ontwikkelaar voor embedded systemen. Ervaring met microcontrollers en real-time systemen vereist.",
+    "skills": ["c", "cpp", "embedded-systems", "microcontrollers", "real-time", "iot"],
+    "location": {
+      "city": "Delft",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "nl",
+    "salary_min": 65000,
+    "salary_max": 85000,
+    "remote": false,
+    "created_at": "2025-09-12T18:00:00Z"
+  },
+  {
+    "id": "job_056",
+    "title": "Business Intelligence Analyst",
+    "description": "Create dashboards and reports using modern BI tools. Experience with SQL, Tableau, and data warehousing required.",
+    "skills": ["business-intelligence", "sql", "tableau", "data-warehousing", "analytics", "reporting"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "en",
+    "salary_min": 55000,
+    "salary_max": 70000,
+    "remote": true,
+    "created_at": "2025-09-12T19:00:00Z"
+  },
+  {
+    "id": "job_057",
+    "title": "PHP Developer",
+    "description": "Laravel en Symfony ontwikkelaar voor webapplicaties. Kennis van modern PHP practices en database design gewenst.",
+    "skills": ["php", "laravel", "symfony", "mysql", "javascript", "composer"],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "nl",
+    "salary_min": 45000,
+    "salary_max": 65000,
+    "remote": false,
+    "created_at": "2025-09-12T20:00:00Z"
+  },
+  {
+    "id": "job_058",
+    "title": "Rust Developer",
+    "description": "Systems programming with Rust for high-performance applications. Experience with concurrent programming and memory management.",
+    "skills": ["rust", "systems-programming", "concurrent-programming", "performance-optimization", "linux", "networking"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 80000,
+    "salary_max": 100000,
+    "remote": true,
+    "created_at": "2025-09-12T21:00:00Z"
+  },
+  {
+    "id": "job_059",
+    "title": "IT Support Specialist",
+    "description": "Technische ondersteuning voor gebruikers en systemen. Ervaring met Windows, Linux en netwerken gewenst.",
+    "skills": ["it-support", "windows", "linux", "networking", "troubleshooting", "help-desk"],
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "junior",
+    "language": "nl",
+    "salary_min": 35000,
+    "salary_max": 50000,
+    "remote": false,
+    "created_at": "2025-09-12T22:00:00Z"
+  },
+  {
+    "id": "job_123",
+    "title": "Senior ML Engineer",
+    "description": "Lead machine learning initiatives and mentor junior developers. Extensive experience with Python, TensorFlow, and MLOps required. Work on cutting-edge AI projects.",
+    "skills": ["python", "tensorflow", "pytorch", "mlops", "machine-learning", "mentoring"],
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "employment_type": "full-time",
+    "seniority": "senior",
+    "language": "en",
+    "salary_min": 85000,
+    "salary_max": 110000,
+    "remote": true,
+    "created_at": "2025-09-13T10:00:00Z"
+  },
+  {
+    "id": "job_060",
+    "title": "Python Ontwikkelaar",
+    "description": "Fulltime Python ontwikkelaar voor backend systemen. Je werkt met FastAPI, Django en cloud technologieën in ons Amsterdamse kantoor.",
+    "skills": ["python", "fastapi", "django", "aws", "docker", "postgresql"],
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "employment_type": "full-time",
+    "seniority": "mid",
+    "language": "nl",
+    "salary_min": 60000,
+    "salary_max": 80000,
+    "remote": false,
+    "created_at": "2025-09-13T11:00:00Z"
+  }
+]

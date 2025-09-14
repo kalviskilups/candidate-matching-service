@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "candidate_001",
+    "name": "Emma van der Berg",
+    "title": "Senior Python Developer",
+    "summary": "Experienced backend developer with 8 years of expertise in Python, Django, and FastAPI. Strong background in building scalable web applications and REST APIs. Passionate about clean code and test-driven development.",
+    "skills": ["python", "django", "fastapi", "postgresql", "docker", "aws", "redis", "celery"],
+    "years_experience": 8,
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en", "de"],
+    "open_to_remote": true,
+    "desired_salary": 75000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-09-10T10:30:00Z"
+  },
+  {
+    "id": "candidate_002",
+    "name": "Marco Rossi",
+    "title": "Frontend React Developer",
+    "summary": "Creative frontend developer with 5 years of experience building modern React applications. Expert in TypeScript, Redux, and modern CSS frameworks. Love creating intuitive user interfaces.",
+    "skills": ["react", "typescript", "redux", "css", "javascript", "webpack", "sass", "jest"],
+    "years_experience": 5,
+    "location": {
+      "city": "Milan",
+      "country": "Italy"
+    },
+    "languages": ["it", "en", "fr"],
+    "open_to_remote": false,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-09-09T15:45:00Z"
+  },
+  {
+    "id": "candidate_003",
+    "name": "Sophie Müller",
+    "title": "DevOps Engineer",
+    "summary": "Skilled DevOps engineer with 6 years of experience in cloud infrastructure and automation. Expertise in Kubernetes, Docker, and CI/CD pipelines. Strong background in AWS and monitoring systems.",
+    "skills": ["kubernetes", "docker", "terraform", "aws", "jenkins", "monitoring", "prometheus", "grafana"],
+    "years_experience": 6,
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "languages": ["de", "en"],
+    "open_to_remote": true,
+    "desired_salary": 72000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-09-08T12:20:00Z"
+  },
+  {
+    "id": "candidate_004",
+    "name": "James Wilson",
+    "title": "Full Stack Developer",
+    "summary": "Versatile full-stack developer with 4 years of experience in both frontend and backend development. Proficient in React, Node.js, and various databases. Enjoys working on diverse projects.",
+    "skills": ["react", "nodejs", "mongodb", "express", "javascript", "css", "postgresql", "git"],
+    "years_experience": 4,
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 62000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-09-07T09:15:00Z"
+  },
+  {
+    "id": "candidate_005",
+    "name": "Anna Kowalski",
+    "title": "Data Scientist",
+    "summary": "Analytical data scientist with 3 years of experience in machine learning and statistical analysis. Expert in Python, pandas, and scikit-learn. PhD in Statistics with focus on predictive modeling.",
+    "skills": ["python", "pandas", "scikit-learn", "sql", "statistics", "jupyter", "matplotlib", "seaborn"],
+    "years_experience": 3,
+    "location": {
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    "languages": ["pl", "en"],
+    "open_to_remote": true,
+    "desired_salary": 50000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-09-06T14:30:00Z"
+  },
+  {
+    "id": "candidate_006",
+    "name": "Lucas Dubois",
+    "title": "Machine Learning Engineer",
+    "summary": "Experienced ML engineer with 7 years in developing and deploying machine learning models. Strong background in TensorFlow, PyTorch, and MLOps. Specialized in NLP and computer vision.",
+    "skills": ["python", "tensorflow", "pytorch", "mlops", "kubernetes", "gcp", "nlp", "computer-vision"],
+    "years_experience": 7,
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "es"],
+    "open_to_remote": false,
+    "desired_salary": 82000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-09-05T11:45:00Z"
+  },
+  {
+    "id": "candidate_007",
+    "name": "Pieter Janssen",
+    "title": "Junior Java Developer",
+    "summary": "Enthusiastic junior developer with 1 year of professional experience and strong foundation in Java and Spring Boot. Recent computer science graduate eager to grow and learn new technologies.",
+    "skills": ["java", "spring-boot", "maven", "junit", "git", "sql", "html", "css"],
+    "years_experience": 1,
+    "location": {
+      "city": "Utrecht",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 38000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-09-04T16:00:00Z"
+  },
+  {
+    "id": "candidate_008",
+    "name": "Maria Garcia",
+    "title": "QA Automation Engineer",
+    "summary": "Quality assurance engineer with 4 years of experience in test automation. Expert in Selenium, Cypress, and API testing. Strong advocate for quality and continuous improvement.",
+    "skills": ["selenium", "cypress", "python", "testing", "api-testing", "jenkins", "junit", "postman"],
+    "years_experience": 4,
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "languages": ["es", "en", "ca"],
+    "open_to_remote": true,
+    "desired_salary": 52000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-09-03T13:25:00Z"
+  },
+  {
+    "id": "candidate_009",
+    "name": "Erik Andersson",
+    "title": "iOS Developer",
+    "summary": "Native iOS developer with 6 years of experience building consumer and enterprise apps. Expert in Swift, UIKit, and Core Data. Published several apps on the App Store.",
+    "skills": ["swift", "ios", "uikit", "core-data", "xcode", "objective-c", "app-store", "rest-api"],
+    "years_experience": 6,
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "no"],
+    "open_to_remote": false,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-09-02T10:10:00Z"
+  },
+  {
+    "id": "candidate_010",
+    "name": "Thomas De Vries",
+    "title": "Database Administrator",
+    "summary": "Senior DBA with 10 years of experience managing PostgreSQL and MySQL databases. Expert in performance tuning, backup strategies, and high availability. Strong troubleshooting skills.",
+    "skills": ["postgresql", "mysql", "sql", "database-tuning", "backup", "monitoring", "linux", "scripting"],
+    "years_experience": 10,
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": true,
+    "desired_salary": 78000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-09-01T08:50:00Z"
+  },
+  {
+    "id": "candidate_011",
+    "name": "Isabella Schmidt",
+    "title": "Product Manager",
+    "summary": "Strategic product manager with 5 years of experience leading cross-functional teams. Strong analytical skills and expertise in agile methodologies. Successful track record of product launches.",
+    "skills": ["product-management", "agile", "jira", "analytics", "stakeholder-management", "strategy", "scrum", "market-research"],
+    "years_experience": 5,
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "languages": ["de", "en", "fr"],
+    "open_to_remote": true,
+    "desired_salary": 75000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-31T15:30:00Z"
+  },
+  {
+    "id": "candidate_012",
+    "name": "Olivier Laurent",
+    "title": "Cybersecurity Analyst",
+    "summary": "Cybersecurity professional with 4 years of experience in threat detection and incident response. Expert in SIEM tools and penetration testing. Strong background in network security.",
+    "skills": ["cybersecurity", "siem", "penetration-testing", "incident-response", "networking", "linux", "wireshark", "nmap"],
+    "years_experience": 4,
+    "location": {
+      "city": "Brussels",
+      "country": "Belgium"
+    },
+    "languages": ["fr", "nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-30T12:45:00Z"
+  },
+  {
+    "id": "candidate_013",
+    "name": "Liam Murphy",
+    "title": "UX/UI Designer",
+    "summary": "Creative UX/UI designer with 3 years of experience creating user-centered designs. Proficient in Figma, user research, and prototyping. Passionate about accessibility and inclusive design.",
+    "skills": ["figma", "sketch", "user-research", "prototyping", "design-systems", "usability-testing", "adobe-creative", "accessibility"],
+    "years_experience": 3,
+    "location": {
+      "city": "Dublin",
+      "country": "Ireland"
+    },
+    "languages": ["en", "ga"],
+    "open_to_remote": true,
+    "desired_salary": 48000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-29T09:20:00Z"
+  },
+  {
+    "id": "candidate_014",
+    "name": "Alexandra Petrov",
+    "title": "Blockchain Developer",
+    "summary": "Blockchain developer with 2 years of experience in smart contract development. Expert in Solidity and Web3 technologies. Strong interest in DeFi and NFT projects.",
+    "skills": ["solidity", "ethereum", "web3", "blockchain", "smart-contracts", "javascript", "truffle", "hardhat"],
+    "years_experience": 2,
+    "location": {
+      "city": "Prague",
+      "country": "Czech Republic"
+    },
+    "languages": ["cs", "en", "ru"],
+    "open_to_remote": true,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-28T14:15:00Z"
+  },
+  {
+    "id": "candidate_015",
+    "name": "Hannah Thompson",
+    "title": "Technical Writer",
+    "summary": "Technical writer with 4 years of experience creating documentation for APIs and software products. Strong communication skills and ability to explain complex technical concepts clearly.",
+    "skills": ["technical-writing", "markdown", "api-documentation", "confluence", "git", "communication", "editing", "content-strategy"],
+    "years_experience": 4,
+    "location": {
+      "city": "Edinburgh",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 45000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-08-27T11:30:00Z"
+  },
+  {
+    "id": "candidate_016",
+    "name": "Carlos Rodriguez",
+    "title": "Android Developer",
+    "summary": "Android developer with 5 years of experience building native mobile applications. Expert in Kotlin and Android SDK. Strong focus on performance optimization and user experience.",
+    "skills": ["kotlin", "android", "android-sdk", "room", "retrofit", "mvvm", "rxjava", "dagger"],
+    "years_experience": 5,
+    "location": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "languages": ["es", "en"],
+    "open_to_remote": false,
+    "desired_salary": 54000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-26T16:45:00Z"
+  },
+  {
+    "id": "candidate_017",
+    "name": "Finn Nielsen",
+    "title": "Site Reliability Engineer",
+    "summary": "SRE with 7 years of experience ensuring high availability of distributed systems. Expert in monitoring, alerting, and incident management. Strong background in Go and cloud platforms.",
+    "skills": ["sre", "monitoring", "alerting", "incident-management", "distributed-systems", "golang", "prometheus", "grafana"],
+    "years_experience": 7,
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "sv"],
+    "open_to_remote": true,
+    "desired_salary": 85000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-25T13:20:00Z"
+  },
+  {
+    "id": "candidate_018",
+    "name": "Sarah Johnson",
+    "title": "Business Analyst",
+    "summary": "Business analyst with 3 years of experience bridging the gap between business and technology. Strong analytical skills and expertise in requirements gathering and stakeholder management.",
+    "skills": ["business-analysis", "requirements-gathering", "stakeholder-management", "documentation", "sql", "excel", "jira", "process-improvement"],
+    "years_experience": 3,
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": false,
+    "desired_salary": 52000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-08-24T10:35:00Z"
+  },
+  {
+    "id": "candidate_019",
+    "name": "Michael Weber",
+    "title": "Cloud Architect",
+    "summary": "Senior cloud architect with 9 years of experience designing scalable cloud solutions. Expert in AWS, Azure, and GCP. Led multiple cloud migration projects for enterprise clients.",
+    "skills": ["cloud-architecture", "aws", "azure", "gcp", "terraform", "microservices", "serverless", "security"],
+    "years_experience": 9,
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "languages": ["de", "en"],
+    "open_to_remote": true,
+    "desired_salary": 95000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-23T14:50:00Z"
+  },
+  {
+    "id": "candidate_020",
+    "name": "Lisa van Dijk",
+    "title": "Data Engineer",
+    "summary": "Data engineer with 6 years of experience building and maintaining data pipelines. Expert in Apache Spark, Kafka, and data warehousing. Strong background in big data technologies.",
+    "skills": ["spark", "kafka", "python", "sql", "data-warehousing", "etl", "airflow", "hadoop"],
+    "years_experience": 6,
+    "location": {
+      "city": "Eindhoven",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 73000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-22T09:25:00Z"
+  },
+  {
+    "id": "candidate_021",
+    "name": "Robert Brown",
+    "title": "Scrum Master",
+    "summary": "Certified Scrum Master with 4 years of experience facilitating agile ceremonies and coaching teams. Strong background in scaled agile frameworks and continuous improvement.",
+    "skills": ["scrum", "agile", "coaching", "facilitation", "jira", "scaled-agile", "kanban", "retrospectives"],
+    "years_experience": 4,
+    "location": {
+      "city": "Birmingham",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-08-21T15:10:00Z"
+  },
+  {
+    "id": "candidate_022",
+    "name": "Katja Virtanen",
+    "title": "Game Developer",
+    "summary": "Game developer with 3 years of experience creating mobile and web games. Expert in Unity and C#. Passionate about game design and creating engaging user experiences.",
+    "skills": ["unity", "csharp", "game-development", "game-design", "3d-modeling", "animation", "photoshop", "blender"],
+    "years_experience": 3,
+    "location": {
+      "city": "Helsinki",
+      "country": "Finland"
+    },
+    "languages": ["fi", "en", "sv"],
+    "open_to_remote": false,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-20T12:40:00Z"
+  },
+  {
+    "id": "candidate_023",
+    "name": "Jan Novak",
+    "title": "IT Support Specialist",
+    "summary": "IT support specialist with 2 years of experience providing technical support to end users. Strong troubleshooting skills and experience with Windows, macOS, and networking.",
+    "skills": ["it-support", "windows", "macos", "networking", "troubleshooting", "help-desk", "active-directory", "office365"],
+    "years_experience": 2,
+    "location": {
+      "city": "Brno",
+      "country": "Czech Republic"
+    },
+    "languages": ["cs", "en", "sk"],
+    "open_to_remote": false,
+    "desired_salary": 32000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-19T08:15:00Z"
+  },
+  {
+    "id": "candidate_024",
+    "name": "Dr. Elena Popovic",
+    "title": "AI Research Scientist",
+    "summary": "AI research scientist with PhD in Computer Science and 5 years of research experience. Expert in deep learning, NLP, and computer vision. Published researcher with multiple papers in top-tier conferences.",
+    "skills": ["ai", "machine-learning", "deep-learning", "nlp", "computer-vision", "pytorch", "tensorflow", "research"],
+    "years_experience": 5,
+    "location": {
+      "city": "Belgrade",
+      "country": "Serbia"
+    },
+    "languages": ["sr", "en", "ru"],
+    "open_to_remote": true,
+    "desired_salary": 70000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-08-18T16:30:00Z"
+  },
+  {
+    "id": "candidate_025",
+    "name": "Antoine Moreau",
+    "title": "Sales Engineer",
+    "summary": "Sales engineer with 4 years of experience bridging sales and engineering teams. Strong technical background combined with excellent communication skills. Successful track record in B2B sales.",
+    "skills": ["sales", "technical-sales", "communication", "presentations", "crm", "solution-architecture", "demos", "negotiation"],
+    "years_experience": 4,
+    "location": {
+      "city": "Lyon",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "de"],
+    "open_to_remote": true,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-17T11:55:00Z"
+  },
+  {
+    "id": "candidate_026",
+    "name": "Giuseppe Bianchi",
+    "title": "Embedded Systems Engineer",
+    "summary": "Embedded systems engineer with 8 years of experience developing firmware for microcontrollers. Expert in C/C++ and real-time systems. Strong background in IoT and automotive systems.",
+    "skills": ["c", "cpp", "embedded", "microcontrollers", "real-time", "iot", "automotive", "can-bus"],
+    "years_experience": 8,
+    "location": {
+      "city": "Turin",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 67000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-16T14:20:00Z"
+  },
+  {
+    "id": "candidate_027",
+    "name": "Ingrid Larsen",
+    "title": "Network Engineer",
+    "summary": "Network engineer with 5 years of experience designing and maintaining network infrastructure. Expert in Cisco equipment, routing protocols, and network security. CCNP certified.",
+    "skills": ["networking", "cisco", "routing", "switching", "network-security", "vpn", "firewall", "ccnp"],
+    "years_experience": 5,
+    "location": {
+      "city": "Oslo",
+      "country": "Norway"
+    },
+    "languages": ["no", "en", "sv"],
+    "open_to_remote": false,
+    "desired_salary": 72000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-15T10:45:00Z"
+  },
+  {
+    "id": "candidate_028",
+    "name": "Patricia Silva",
+    "title": "Content Marketing Manager",
+    "summary": "Content marketing manager with 3 years of experience creating and executing content strategies. Expert in SEO, social media, and content creation tools. Proven track record in lead generation.",
+    "skills": ["content-marketing", "seo", "social-media", "copywriting", "analytics", "content-strategy", "wordpress", "google-analytics"],
+    "years_experience": 3,
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en", "es"],
+    "open_to_remote": true,
+    "desired_salary": 48000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-14T13:30:00Z"
+  },
+  {
+    "id": "candidate_029",
+    "name": "Jakub Kowalczyk",
+    "title": "Database Developer",
+    "summary": "Database developer with 4 years of experience in SQL Server development. Expert in stored procedures, database design, and performance tuning. Strong background in data warehousing.",
+    "skills": ["sql-server", "sql", "stored-procedures", "database-design", "performance-tuning", "etl", "ssis", "ssrs"],
+    "years_experience": 4,
+    "location": {
+      "city": "Krakow",
+      "country": "Poland"
+    },
+    "languages": ["pl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 52000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-13T09:10:00Z"
+  },
+  {
+    "id": "candidate_030",
+    "name": "Bas Bakker",
+    "title": "Software Architect",
+    "summary": "Senior software architect with 12 years of experience in designing enterprise software systems. Expert in distributed systems, microservices, and technology leadership. Strong background in Java and .NET.",
+    "skills": ["software-architecture", "distributed-systems", "design-patterns", "leadership", "microservices", "api-design", "java", "dotnet"],
+    "years_experience": 12,
+    "location": {
+      "city": "The Hague",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en", "de"],
+    "open_to_remote": true,
+    "desired_salary": 105000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-12T15:25:00Z"
+  },
+  {
+    "id": "candidate_031",
+    "name": "Amélie Dubois",
+    "title": "Frontend Developer",
+    "summary": "Frontend developer with 3 years of experience in Vue.js and modern JavaScript. Passionate about creating responsive and accessible web applications. Strong eye for design and user experience.",
+    "skills": ["vue", "javascript", "css", "html", "webpack", "sass", "jest", "cypress"],
+    "years_experience": 3,
+    "location": {
+      "city": "Marseille",
+      "country": "France"
+    },
+    "languages": ["fr", "en"],
+    "open_to_remote": true,
+    "desired_salary": 45000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-11T12:15:00Z"
+  },
+  {
+    "id": "candidate_032",
+    "name": "Tobias Andersen",
+    "title": "Backend Developer",
+    "summary": "Backend developer with 4 years of experience in Node.js and microservices architecture. Strong background in API development and database optimization. Advocate for clean architecture principles.",
+    "skills": ["nodejs", "express", "mongodb", "postgresql", "microservices", "docker", "api-development", "testing"],
+    "years_experience": 4,
+    "location": {
+      "city": "Aarhus",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "de"],
+    "open_to_remote": false,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-10T08:40:00Z"
+  },
+  {
+    "id": "candidate_033",
+    "name": "Rachel Green",
+    "title": "Data Analyst",
+    "summary": "Data analyst with 2 years of experience in business intelligence and data visualization. Proficient in Python, SQL, and Tableau. Strong background in statistical analysis and reporting.",
+    "skills": ["python", "sql", "tableau", "excel", "statistics", "data-visualization", "power-bi", "r"],
+    "years_experience": 2,
+    "location": {
+      "city": "Bristol",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 42000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-08-09T14:50:00Z"
+  },
+  {
+    "id": "candidate_034",
+    "name": "Stefan Müller",
+    "title": "Security Engineer",
+    "summary": "Security engineer with 6 years of experience in application security and vulnerability assessment. Expert in secure coding practices and security testing tools. CISSP certified.",
+    "skills": ["security", "penetration-testing", "vulnerability-assessment", "owasp", "secure-coding", "cissp", "burp-suite", "nessus"],
+    "years_experience": 6,
+    "location": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "languages": ["de", "en", "fr"],
+    "open_to_remote": true,
+    "desired_salary": 92000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-08-08T11:30:00Z"
+  },
+  {
+    "id": "candidate_035",
+    "name": "Marta Gonzalez",
+    "title": "Mobile Developer",
+    "summary": "Mobile developer with 4 years of experience in cross-platform development using React Native. Strong background in both iOS and Android development. Passionate about mobile UX.",
+    "skills": ["react-native", "javascript", "ios", "android", "redux", "firebase", "app-store", "play-store"],
+    "years_experience": 4,
+    "location": {
+      "city": "Valencia",
+      "country": "Spain"
+    },
+    "languages": ["es", "en", "ca"],
+    "open_to_remote": false,
+    "desired_salary": 50000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-07T16:20:00Z"
+  },
+  {
+    "id": "candidate_036",
+    "name": "Kevin O'Brien",
+    "title": "Systems Administrator",
+    "summary": "Systems administrator with 5 years of experience managing Linux and Windows servers. Strong background in automation, monitoring, and backup solutions. Expert in shell scripting.",
+    "skills": ["linux", "windows-server", "bash", "powershell", "automation", "monitoring", "backup", "virtualization"],
+    "years_experience": 5,
+    "location": {
+      "city": "Cork",
+      "country": "Ireland"
+    },
+    "languages": ["en", "ga"],
+    "open_to_remote": false,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-06T09:45:00Z"
+  },
+  {
+    "id": "candidate_037",
+    "name": "Laura Bianchi",
+    "title": "Project Manager",
+    "summary": "Project manager with 4 years of experience leading software development projects. Strong background in agile methodologies and stakeholder management. PMP certified professional.",
+    "skills": ["project-management", "agile", "scrum", "stakeholder-management", "jira", "confluence", "pmp", "risk-management"],
+    "years_experience": 4,
+    "location": {
+      "city": "Rome",
+      "country": "Italy"
+    },
+    "languages": ["it", "en", "fr"],
+    "open_to_remote": true,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-05T13:55:00Z"
+  },
+  {
+    "id": "candidate_038",
+    "name": "Magnus Eriksson",
+    "title": "Software Engineer",
+    "summary": "Software engineer with 3 years of experience in full-stack development. Proficient in multiple programming languages and frameworks. Strong problem-solving skills and attention to detail.",
+    "skills": ["python", "java", "react", "spring-boot", "postgresql", "docker", "git", "testing"],
+    "years_experience": 3,
+    "location": {
+      "city": "Gothenburg",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "no"],
+    "open_to_remote": true,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-04T10:20:00Z"
+  },
+  {
+    "id": "candidate_039",
+    "name": "Nathalie Leroy",
+    "title": "UX Researcher",
+    "summary": "UX researcher with 2 years of experience conducting user studies and usability testing. Strong background in research methodology and data analysis. Passionate about user-centered design.",
+    "skills": ["user-research", "usability-testing", "interviews", "surveys", "data-analysis", "figma", "prototype-testing", "personas"],
+    "years_experience": 2,
+    "location": {
+      "city": "Toulouse",
+      "country": "France"
+    },
+    "languages": ["fr", "en"],
+    "open_to_remote": true,
+    "desired_salary": 43000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-03T15:35:00Z"
+  },
+  {
+    "id": "candidate_040",
+    "name": "Dirk van der Meer",
+    "title": "Lead Developer",
+    "summary": "Lead developer with 8 years of experience in software development and team leadership. Expert in .NET technologies and agile methodologies. Strong mentor with excellent communication skills.",
+    "skills": ["dotnet", "csharp", "leadership", "mentoring", "azure", "sql-server", "agile", "code-review"],
+    "years_experience": 8,
+    "location": {
+      "city": "Groningen",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 82000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-02T12:10:00Z"
+  },
+  {
+    "id": "candidate_041",
+    "name": "Isabella Romano",
+    "title": "Digital Marketing Specialist",
+    "summary": "Digital marketing specialist with 3 years of experience in online marketing campaigns. Expert in Google Ads, Facebook Ads, and marketing automation. Strong analytical mindset.",
+    "skills": ["digital-marketing", "google-ads", "facebook-ads", "marketing-automation", "analytics", "seo", "email-marketing", "conversion-optimization"],
+    "years_experience": 3,
+    "location": {
+      "city": "Naples",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": true,
+    "desired_salary": 40000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-08-01T08:25:00Z"
+  },
+  {
+    "id": "candidate_042",
+    "name": "Oliver Schmidt",
+    "title": "Solution Architect",
+    "summary": "Solution architect with 10 years of experience designing enterprise software solutions. Expert in system integration, API design, and cloud architectures. Strong background in multiple technologies.",
+    "skills": ["solution-architecture", "system-integration", "api-design", "cloud", "microservices", "enterprise-patterns", "consulting", "documentation"],
+    "years_experience": 10,
+    "location": {
+      "city": "Frankfurt",
+      "country": "Germany"
+    },
+    "languages": ["de", "en"],
+    "open_to_remote": true,
+    "desired_salary": 98000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-31T14:40:00Z"
+  },
+  {
+    "id": "candidate_043",
+    "name": "Zoe Williams",
+    "title": "Junior Frontend Developer",
+    "summary": "Junior frontend developer with 1 year of experience in React development. Recent bootcamp graduate with strong foundation in modern web technologies. Eager to learn and grow.",
+    "skills": ["react", "javascript", "html", "css", "git", "webpack", "npm", "responsive-design"],
+    "years_experience": 1,
+    "location": {
+      "city": "Leeds",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 32000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-07-30T11:15:00Z"
+  },
+  {
+    "id": "candidate_044",
+    "name": "Henrik Larsson",
+    "title": "Platform Engineer",
+    "summary": "Platform engineer with 5 years of experience building developer platforms and internal tools. Expert in Kubernetes, automation, and developer experience. Strong background in infrastructure as code.",
+    "skills": ["kubernetes", "terraform", "ansible", "jenkins", "docker", "monitoring", "automation", "platform-engineering"],
+    "years_experience": 5,
+    "location": {
+      "city": "Malmö",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "da"],
+    "open_to_remote": false,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-29T16:50:00Z"
+  },
+  {
+    "id": "candidate_045",
+    "name": "Céline Martin",
+    "title": "Backend Developer",
+    "summary": "Backend developer with 4 years of experience in Python and Django development. Strong background in API development, database optimization, and testing. Passionate about clean code.",
+    "skills": ["python", "django", "fastapi", "postgresql", "redis", "celery", "api-development", "testing"],
+    "years_experience": 4,
+    "location": {
+      "city": "Nice",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "it"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-28T09:30:00Z"
+  },
+  {
+    "id": "candidate_046",
+    "name": "Alessandro Ricci",
+    "title": "Machine Learning Engineer",
+    "summary": "ML engineer with 3 years of experience in developing and deploying machine learning models. Strong background in Python, scikit-learn, and cloud platforms. Specialized in recommendation systems.",
+    "skills": ["python", "scikit-learn", "tensorflow", "aws", "mlops", "recommendation-systems", "data-preprocessing", "model-deployment"],
+    "years_experience": 3,
+    "location": {
+      "city": "Florence",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-27T13:45:00Z"
+  },
+  {
+    "id": "candidate_047",
+    "name": "Astrid Jensen",
+    "title": "QA Engineer",
+    "summary": "QA engineer with 3 years of experience in manual and automated testing. Strong background in test planning, execution, and defect tracking. ISTQB certified tester.",
+    "skills": ["manual-testing", "automated-testing", "selenium", "test-planning", "defect-tracking", "istqb", "api-testing", "regression-testing"],
+    "years_experience": 3,
+    "location": {
+      "city": "Bergen",
+      "country": "Norway"
+    },
+    "languages": ["no", "en", "da"],
+    "open_to_remote": true,
+    "desired_salary": 48000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-26T10:20:00Z"
+  },
+  {
+    "id": "candidate_048",
+    "name": "Daniel Costa",
+    "title": "Full Stack Developer",
+    "summary": "Full stack developer with 2 years of experience in modern web development. Proficient in React, Node.js, and PostgreSQL. Strong interest in learning new technologies and best practices.",
+    "skills": ["react", "nodejs", "postgresql", "express", "javascript", "typescript", "docker", "git"],
+    "years_experience": 2,
+    "location": {
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en", "es"],
+    "open_to_remote": true,
+    "desired_salary": 42000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-25T15:10:00Z"
+  },
+  {
+    "id": "candidate_049",
+    "name": "Julia Hoffman",
+    "title": "Data Scientist",
+    "summary": "Data scientist with 4 years of experience in statistical modeling and machine learning. Expert in R, Python, and data visualization. Strong background in predictive analytics and A/B testing.",
+    "skills": ["r", "python", "statistics", "machine-learning", "data-visualization", "predictive-analytics", "ab-testing", "sql"],
+    "years_experience": 4,
+    "location": {
+      "city": "Hamburg",
+      "country": "Germany"
+    },
+    "languages": ["de", "en"],
+    "open_to_remote": false,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-24T12:35:00Z"
+  },
+  {
+    "id": "candidate_050",
+    "name": "Ruben de Jong",
+    "title": "PHP Developer",
+    "summary": "PHP developer with 5 years of experience in web application development. Expert in Laravel, Symfony, and MySQL. Strong background in e-commerce and CMS development.",
+    "skills": ["php", "laravel", "symfony", "mysql", "javascript", "html", "css", "composer"],
+    "years_experience": 5,
+    "location": {
+      "city": "Tilburg",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-23T08:50:00Z"
+  },
+  {
+    "id": "candidate_051",
+    "name": "Emily Davis",
+    "title": "Technical Lead",
+    "summary": "Technical lead with 7 years of experience in software development and team leadership. Expert in Java, Spring Boot, and microservices. Strong mentor and advocate for best practices.",
+    "skills": ["java", "spring-boot", "microservices", "leadership", "mentoring", "code-review", "architecture", "agile"],
+    "years_experience": 7,
+    "location": {
+      "city": "Glasgow",
+      "country": "United Kingdom"
+    },
+    "languages": ["en", "gd"],
+    "open_to_remote": true,
+    "desired_salary": 78000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-07-22T14:25:00Z"
+  },
+  {
+    "id": "candidate_052",
+    "name": "Lars Andersen",
+    "title": "Frontend Architect",
+    "summary": "Frontend architect with 9 years of experience in large-scale web applications. Expert in React, Angular, and modern frontend tooling. Strong background in performance optimization.",
+    "skills": ["react", "angular", "typescript", "webpack", "performance-optimization", "architecture", "micro-frontends", "testing"],
+    "years_experience": 9,
+    "location": {
+      "city": "Aalborg",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "sv"],
+    "open_to_remote": true,
+    "desired_salary": 88000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-21T11:40:00Z"
+  },
+  {
+    "id": "candidate_053",
+    "name": "Valentina Rossi",
+    "title": "Product Designer",
+    "summary": "Product designer with 4 years of experience in digital product design. Expert in user-centered design, prototyping, and design systems. Strong collaboration skills with development teams.",
+    "skills": ["product-design", "figma", "sketch", "prototyping", "design-systems", "user-research", "interaction-design", "collaboration"],
+    "years_experience": 4,
+    "location": {
+      "city": "Bologna",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 52000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-20T16:15:00Z"
+  },
+  {
+    "id": "candidate_054",
+    "name": "Paul Thompson",
+    "title": "Infrastructure Engineer",
+    "summary": "Infrastructure engineer with 6 years of experience in cloud infrastructure and automation. Expert in AWS, Terraform, and monitoring systems. Strong background in high-availability systems.",
+    "skills": ["aws", "terraform", "ansible", "monitoring", "high-availability", "automation", "linux", "networking"],
+    "years_experience": 6,
+    "location": {
+      "city": "Newcastle",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": false,
+    "desired_salary": 72000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-07-19T09:55:00Z"
+  },
+  {
+    "id": "candidate_055",
+    "name": "Ingeborg Nilsen",
+    "title": "Backend Developer",
+    "summary": "Backend developer with 3 years of experience in Go and microservices. Strong background in distributed systems and API development. Passionate about performance and scalability.",
+    "skills": ["golang", "microservices", "distributed-systems", "api-development", "docker", "kubernetes", "postgresql", "redis"],
+    "years_experience": 3,
+    "location": {
+      "city": "Trondheim",
+      "country": "Norway"
+    },
+    "languages": ["no", "en", "sv"],
+    "open_to_remote": true,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-18T13:20:00Z"
+  },
+  {
+    "id": "candidate_056",
+    "name": "François Dubois",
+    "title": "DevSecOps Engineer",
+    "summary": "DevSecOps engineer with 4 years of experience integrating security into CI/CD pipelines. Expert in security scanning, compliance, and secure coding practices. Strong background in automation.",
+    "skills": ["devsecops", "security", "ci-cd", "security-scanning", "compliance", "automation", "docker", "kubernetes"],
+    "years_experience": 4,
+    "location": {
+      "city": "Nantes",
+      "country": "France"
+    },
+    "languages": ["fr", "en"],
+    "open_to_remote": true,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-17T10:45:00Z"
+  },
+  {
+    "id": "candidate_057",
+    "name": "Andrea Conti",
+    "title": "Software Tester",
+    "summary": "Software tester with 2 years of experience in functional and non-functional testing. Strong background in test automation and performance testing. Detail-oriented with strong analytical skills.",
+    "skills": ["testing", "test-automation", "performance-testing", "selenium", "jmeter", "test-planning", "defect-tracking", "api-testing"],
+    "years_experience": 2,
+    "location": {
+      "city": "Palermo",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 38000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-16T15:30:00Z"
+  },
+  {
+    "id": "candidate_058",
+    "name": "Sven Johansson",
+    "title": "Lead Data Engineer",
+    "summary": "Lead data engineer with 8 years of experience in big data technologies and team leadership. Expert in Apache Spark, Kafka, and data lake architectures. Strong mentor and technical leader.",
+    "skills": ["spark", "kafka", "hadoop", "data-lake", "leadership", "mentoring", "python", "scala"],
+    "years_experience": 8,
+    "location": {
+      "city": "Uppsala",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "no"],
+    "open_to_remote": false,
+    "desired_salary": 85000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-15T12:10:00Z"
+  },
+  {
+    "id": "candidate_059",
+    "name": "Claudia Weber",
+    "title": "UX Designer",
+    "summary": "UX designer with 3 years of experience in user experience design and research. Strong background in design thinking, wireframing, and user testing. Passionate about creating accessible designs.",
+    "skills": ["ux-design", "design-thinking", "wireframing", "user-testing", "accessibility", "figma", "sketch", "prototyping"],
+    "years_experience": 3,
+    "location": {
+      "city": "Cologne",
+      "country": "Germany"
+    },
+    "languages": ["de", "en"],
+    "open_to_remote": true,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-14T08:35:00Z"
+  },
+  {
+    "id": "candidate_060",
+    "name": "Martijn Visser",
+    "title": "Python Developer",
+    "summary": "Python developer with 4 years of experience in web development and data processing. Expert in Django, Flask, and pandas. Strong background in API development and database optimization.",
+    "skills": ["python", "django", "flask", "pandas", "postgresql", "api-development", "data-processing", "testing"],
+    "years_experience": 4,
+    "location": {
+      "city": "Nijmegen",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": true,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-13T14:50:00Z"
+  },
+  {
+    "id": "candidate_061",
+    "name": "Beatrice Laurent",
+    "title": "Mobile App Developer",
+    "summary": "Mobile app developer with 3 years of experience in Flutter development. Strong background in cross-platform mobile development and UI design. Published multiple apps on app stores.",
+    "skills": ["flutter", "dart", "mobile-development", "cross-platform", "firebase", "ui-design", "app-store", "play-store"],
+    "years_experience": 3,
+    "location": {
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "es"],
+    "open_to_remote": false,
+    "desired_salary": 48000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-12T11:25:00Z"
+  },
+  {
+    "id": "candidate_062",
+    "name": "Roberto Silva",
+    "title": "Cloud Engineer",
+    "summary": "Cloud engineer with 5 years of experience in AWS and Azure. Expert in cloud migration, infrastructure as code, and cost optimization. Strong background in serverless architectures.",
+    "skills": ["aws", "azure", "terraform", "serverless", "cloud-migration", "cost-optimization", "lambda", "infrastructure-as-code"],
+    "years_experience": 5,
+    "location": {
+      "city": "Braga",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en", "es"],
+    "open_to_remote": true,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-11T16:40:00Z"
+  },
+  {
+    "id": "candidate_063",
+    "name": "Katarina Novakova",
+    "title": "Frontend Developer",
+    "summary": "Frontend developer with 2 years of experience in Angular development. Strong foundation in TypeScript, RxJS, and modern web development. Eager to learn and contribute to innovative projects.",
+    "skills": ["angular", "typescript", "rxjs", "html", "css", "javascript", "webpack", "testing"],
+    "years_experience": 2,
+    "location": {
+      "city": "Bratislava",
+      "country": "Slovakia"
+    },
+    "languages": ["sk", "en", "cs"],
+    "open_to_remote": false,
+    "desired_salary": 38000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-10T09:15:00Z"
+  },
+  {
+    "id": "candidate_064",
+    "name": "Marcus Lindberg",
+    "title": "Senior DevOps Engineer",
+    "summary": "Senior DevOps engineer with 9 years of experience in infrastructure automation and CI/CD. Expert in Kubernetes, Docker, and cloud platforms. Strong background in monitoring and observability.",
+    "skills": ["devops", "kubernetes", "docker", "ci-cd", "monitoring", "observability", "terraform", "ansible"],
+    "years_experience": 9,
+    "location": {
+      "city": "Linköping",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "da"],
+    "open_to_remote": true,
+    "desired_salary": 92000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-09T13:30:00Z"
+  },
+  {
+    "id": "candidate_065",
+    "name": "Chiara Bianchi",
+    "title": "Business Intelligence Analyst",
+    "summary": "BI analyst with 3 years of experience in data analysis and reporting. Expert in SQL, Power BI, and data visualization. Strong background in business process analysis and KPI development.",
+    "skills": ["bi", "sql", "power-bi", "data-visualization", "excel", "business-analysis", "kpi", "reporting"],
+    "years_experience": 3,
+    "location": {
+      "city": "Venice",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": true,
+    "desired_salary": 45000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-08T10:50:00Z"
+  },
+  {
+    "id": "candidate_066",
+    "name": "Aiden Murphy",
+    "title": "Software Engineer",
+    "summary": "Software engineer with 2 years of experience in full-stack development. Proficient in JavaScript, React, and Node.js. Strong problem-solving skills and passion for learning new technologies.",
+    "skills": ["javascript", "react", "nodejs", "express", "mongodb", "git", "testing", "agile"],
+    "years_experience": 2,
+    "location": {
+      "city": "Galway",
+      "country": "Ireland"
+    },
+    "languages": ["en", "ga"],
+    "open_to_remote": true,
+    "desired_salary": 45000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-07T15:20:00Z"
+  },
+  {
+    "id": "candidate_067",
+    "name": "Annika Hansen",
+    "title": "Data Engineer",
+    "summary": "Data engineer with 4 years of experience in building data pipelines and ETL processes. Expert in Python, SQL, and Apache Airflow. Strong background in data warehousing and analytics.",
+    "skills": ["python", "sql", "airflow", "etl", "data-warehousing", "spark", "kafka", "aws"],
+    "years_experience": 4,
+    "location": {
+      "city": "Stavanger",
+      "country": "Norway"
+    },
+    "languages": ["no", "en", "da"],
+    "open_to_remote": false,
+    "desired_salary": 70000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-06T12:05:00Z"
+  },
+  {
+    "id": "candidate_068",
+    "name": "Guillaume Petit",
+    "title": "Software Architect",
+    "summary": "Software architect with 11 years of experience in enterprise software design. Expert in microservices, domain-driven design, and cloud architectures. Strong technical leadership skills.",
+    "skills": ["software-architecture", "microservices", "domain-driven-design", "cloud", "leadership", "java", "spring", "docker"],
+    "years_experience": 11,
+    "location": {
+      "city": "Strasbourg",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "de"],
+    "open_to_remote": true,
+    "desired_salary": 102000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-05T08:40:00Z"
+  },
+  {
+    "id": "candidate_069",
+    "name": "Elena Kovalenko",
+    "title": "Machine Learning Researcher",
+    "summary": "ML researcher with PhD in Computer Science and 4 years of research experience. Expert in deep learning, computer vision, and natural language processing. Published researcher with multiple papers.",
+    "skills": ["machine-learning", "deep-learning", "computer-vision", "nlp", "pytorch", "tensorflow", "research", "python"],
+    "years_experience": 4,
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "languages": ["en", "de", "ru"],
+    "open_to_remote": true,
+    "desired_salary": 75000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-04T14:15:00Z"
+  },
+  {
+    "id": "candidate_070",
+    "name": "Thijs Bakker",
+    "title": "Full Stack Developer",
+    "summary": "Full stack developer with 3 years of experience in modern web development. Proficient in Vue.js, Node.js, and PostgreSQL. Strong interest in clean architecture and testing.",
+    "skills": ["vue", "nodejs", "postgresql", "express", "javascript", "typescript", "docker", "testing"],
+    "years_experience": 3,
+    "location": {
+      "city": "Delft",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-03T11:30:00Z"
+  },
+  {
+    "id": "candidate_071",
+    "name": "Sophie Taylor",
+    "title": "Product Owner",
+    "summary": "Product owner with 4 years of experience in agile product development. Strong background in user story writing, backlog management, and stakeholder communication. Certified Scrum Product Owner.",
+    "skills": ["product-ownership", "agile", "scrum", "user-stories", "backlog-management", "stakeholder-management", "jira", "roadmapping"],
+    "years_experience": 4,
+    "location": {
+      "city": "Cardiff",
+      "country": "United Kingdom"
+    },
+    "languages": ["en", "cy"],
+    "open_to_remote": true,
+    "desired_salary": 65000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-07-02T16:45:00Z"
+  },
+  {
+    "id": "candidate_072",
+    "name": "Matteo Ferrari",
+    "title": "Backend Developer",
+    "summary": "Backend developer with 5 years of experience in Java and Spring ecosystem. Expert in microservices architecture and API development. Strong background in performance optimization and testing.",
+    "skills": ["java", "spring-boot", "microservices", "api-development", "performance-optimization", "testing", "docker", "kubernetes"],
+    "years_experience": 5,
+    "location": {
+      "city": "Genoa",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 60000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-07-01T09:20:00Z"
+  },
+  {
+    "id": "candidate_073",
+    "name": "Ida Christensen",
+    "title": "UI/UX Designer",
+    "summary": "UI/UX designer with 4 years of experience in digital design. Expert in user interface design, interaction design, and design systems. Strong background in user research and usability testing.",
+    "skills": ["ui-design", "ux-design", "interaction-design", "design-systems", "user-research", "usability-testing", "figma", "sketch"],
+    "years_experience": 4,
+    "location": {
+      "city": "Odense",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "sv"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-30T13:55:00Z"
+  },
+  {
+    "id": "candidate_074",
+    "name": "Pedro Santos",
+    "title": "DevOps Engineer",
+    "summary": "DevOps engineer with 3 years of experience in cloud infrastructure and automation. Strong background in AWS, Docker, and CI/CD pipelines. Passionate about infrastructure as code.",
+    "skills": ["devops", "aws", "docker", "ci-cd", "terraform", "ansible", "monitoring", "infrastructure-as-code"],
+    "years_experience": 3,
+    "location": {
+      "city": "Coimbra",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en"],
+    "open_to_remote": true,
+    "desired_salary": 52000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-29T10:40:00Z"
+  },
+  {
+    "id": "candidate_075",
+    "name": "Natasha Kozlova",
+    "title": "Frontend Developer",
+    "summary": "Frontend developer with 2 years of experience in React and modern JavaScript. Strong foundation in responsive design and accessibility. Eager to contribute to user-facing applications.",
+    "skills": ["react", "javascript", "typescript", "css", "html", "responsive-design", "accessibility", "webpack"],
+    "years_experience": 2,
+    "location": {
+      "city": "Riga",
+      "country": "Latvia"
+    },
+    "languages": ["lv", "en", "ru"],
+    "open_to_remote": false,
+    "desired_salary": 35000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-28T15:25:00Z"
+  },
+  {
+    "id": "candidate_076",
+    "name": "Alexander Müller",
+    "title": "Senior Software Engineer",
+    "summary": "Senior software engineer with 8 years of experience in enterprise software development. Expert in C# and .NET ecosystem. Strong background in design patterns and clean architecture.",
+    "skills": ["csharp", "dotnet", "design-patterns", "clean-architecture", "sql-server", "azure", "microservices", "testing"],
+    "years_experience": 8,
+    "location": {
+      "city": "Stuttgart",
+      "country": "Germany"
+    },
+    "languages": ["de", "en"],
+    "open_to_remote": true,
+    "desired_salary": 85000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-27T12:10:00Z"
+  },
+  {
+    "id": "candidate_077",
+    "name": "Marie Andersson",
+    "title": "Data Analyst",
+    "summary": "Data analyst with 3 years of experience in business intelligence and data visualization. Expert in SQL, Python, and Tableau. Strong background in statistical analysis and reporting.",
+    "skills": ["sql", "python", "tableau", "statistics", "data-visualization", "excel", "bi", "reporting"],
+    "years_experience": 3,
+    "location": {
+      "city": "Västerås",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en"],
+    "open_to_remote": true,
+    "desired_salary": 50000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-26T08:35:00Z"
+  },
+  {
+    "id": "candidate_078",
+    "name": "Luca Romano",
+    "title": "Mobile Developer",
+    "summary": "Mobile developer with 4 years of experience in iOS and Android development. Expert in Swift, Kotlin, and cross-platform technologies. Strong focus on user experience and performance.",
+    "skills": ["swift", "kotlin", "ios", "android", "react-native", "firebase", "user-experience", "performance-optimization"],
+    "years_experience": 4,
+    "location": {
+      "city": "Bari",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-25T14:20:00Z"
+  },
+  {
+    "id": "candidate_079",
+    "name": "Camille Dubois",
+    "title": "Security Engineer",
+    "summary": "Security engineer with 5 years of experience in application security and penetration testing. Expert in OWASP top 10, secure coding, and vulnerability assessment. Ethical hacker certification.",
+    "skills": ["security", "penetration-testing", "owasp", "secure-coding", "vulnerability-assessment", "ethical-hacking", "compliance", "incident-response"],
+    "years_experience": 5,
+    "location": {
+      "city": "Rennes",
+      "country": "France"
+    },
+    "languages": ["fr", "en"],
+    "open_to_remote": true,
+    "desired_salary": 72000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-24T11:45:00Z"
+  },
+  {
+    "id": "candidate_080",
+    "name": "Willem Janssen",
+    "title": "Technical Writer",
+    "summary": "Technical writer with 3 years of experience creating software documentation. Expert in API documentation, user guides, and technical content. Strong communication skills and attention to detail.",
+    "skills": ["technical-writing", "api-documentation", "user-guides", "markdown", "confluence", "git", "communication", "editing"],
+    "years_experience": 3,
+    "location": {
+      "city": "Arnhem",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": true,
+    "desired_salary": 48000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-23T16:30:00Z"
+  },
+  {
+    "id": "candidate_081",
+    "name": "Grace Wilson",
+    "title": "Junior Data Scientist",
+    "summary": "Junior data scientist with 1 year of experience in machine learning and statistical analysis. Strong foundation in Python, scikit-learn, and data visualization. Recent master's graduate eager to grow.",
+    "skills": ["python", "scikit-learn", "pandas", "matplotlib", "statistics", "machine-learning", "jupyter", "sql"],
+    "years_experience": 1,
+    "location": {
+      "city": "Liverpool",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 38000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-06-22T09:15:00Z"
+  },
+  {
+    "id": "candidate_082",
+    "name": "Erik Olsen",
+    "title": "Platform Engineer",
+    "summary": "Platform engineer with 6 years of experience building developer platforms and internal tools. Expert in Kubernetes, automation, and developer experience. Strong background in infrastructure.",
+    "skills": ["platform-engineering", "kubernetes", "automation", "developer-experience", "terraform", "jenkins", "monitoring", "infrastructure"],
+    "years_experience": 6,
+    "location": {
+      "city": "Tromsø",
+      "country": "Norway"
+    },
+    "languages": ["no", "en", "sv"],
+    "open_to_remote": false,
+    "desired_salary": 78000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-21T13:50:00Z"
+  },
+  {
+    "id": "candidate_083",
+    "name": "Federica Moretti",
+    "title": "Quality Assurance Lead",
+    "summary": "QA lead with 7 years of experience in test management and automation. Expert in test strategy, team leadership, and quality processes. Strong background in both manual and automated testing.",
+    "skills": ["qa-leadership", "test-management", "test-automation", "test-strategy", "selenium", "team-leadership", "quality-processes", "agile"],
+    "years_experience": 7,
+    "location": {
+      "city": "Verona",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": true,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-20T10:25:00Z"
+  },
+  {
+    "id": "candidate_084",
+    "name": "Samuel Garcia",
+    "title": "Full Stack Developer",
+    "summary": "Full stack developer with 4 years of experience in web development. Proficient in Angular, Node.js, and MongoDB. Strong background in API development and database design.",
+    "skills": ["angular", "nodejs", "mongodb", "express", "typescript", "api-development", "database-design", "testing"],
+    "years_experience": 4,
+    "location": {
+      "city": "Seville",
+      "country": "Spain"
+    },
+    "languages": ["es", "en"],
+    "open_to_remote": false,
+    "desired_salary": 52000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-19T15:40:00Z"
+  },
+  {
+    "id": "candidate_085",
+    "name": "Astrid Larsson",
+    "title": "Business Analyst",
+    "summary": "Business analyst with 4 years of experience in requirements analysis and process improvement. Strong background in stakeholder management and business process modeling. Expert in agile methodologies.",
+    "skills": ["business-analysis", "requirements-analysis", "process-improvement", "stakeholder-management", "business-process-modeling", "agile", "jira", "documentation"],
+    "years_experience": 4,
+    "location": {
+      "city": "Lund",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "da"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-18T12:30:00Z"
+  },
+  {
+    "id": "candidate_086",
+    "name": "Hugo Pereira",
+    "title": "Cloud Solutions Architect",
+    "summary": "Cloud solutions architect with 10 years of experience in cloud technologies and enterprise architecture. Expert in multi-cloud strategies, migration planning, and cost optimization.",
+    "skills": ["cloud-architecture", "multi-cloud", "migration-planning", "cost-optimization", "aws", "azure", "gcp", "enterprise-architecture"],
+    "years_experience": 10,
+    "location": {
+      "city": "Faro",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en", "es"],
+    "open_to_remote": true,
+    "desired_salary": 95000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-17T08:45:00Z"
+  },
+  {
+    "id": "candidate_087",
+    "name": "Nina Novak",
+    "title": "Frontend Developer",
+    "summary": "Frontend developer with 3 years of experience in modern web development. Expert in React, TypeScript, and responsive design. Strong focus on accessibility and performance optimization.",
+    "skills": ["react", "typescript", "responsive-design", "accessibility", "performance-optimization", "css", "javascript", "testing"],
+    "years_experience": 3,
+    "location": {
+      "city": "Ljubljana",
+      "country": "Slovenia"
+    },
+    "languages": ["sl", "en", "de"],
+    "open_to_remote": false,
+    "desired_salary": 45000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-16T14:15:00Z"
+  },
+  {
+    "id": "candidate_088",
+    "name": "Connor O'Sullivan",
+    "title": "Systems Engineer",
+    "summary": "Systems engineer with 5 years of experience in enterprise IT infrastructure. Expert in Linux administration, virtualization, and backup solutions. Strong troubleshooting and automation skills.",
+    "skills": ["linux", "systems-administration", "virtualization", "backup-solutions", "troubleshooting", "automation", "scripting", "monitoring"],
+    "years_experience": 5,
+    "location": {
+      "city": "Limerick",
+      "country": "Ireland"
+    },
+    "languages": ["en", "ga"],
+    "open_to_remote": false,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-15T11:20:00Z"
+  },
+  {
+    "id": "candidate_089",
+    "name": "Silvia Rossi",
+    "title": "Product Manager",
+    "summary": "Product manager with 5 years of experience in digital product development. Strong background in product strategy, roadmapping, and cross-functional team leadership. Data-driven decision maker.",
+    "skills": ["product-management", "product-strategy", "roadmapping", "team-leadership", "data-driven-decisions", "agile", "user-research", "analytics"],
+    "years_experience": 5,
+    "location": {
+      "city": "Catania",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": true,
+    "desired_salary": 70000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-14T16:35:00Z"
+  },
+  {
+    "id": "candidate_090",
+    "name": "Kasper Nielsen",
+    "title": "Machine Learning Engineer",
+    "summary": "ML engineer with 4 years of experience in developing and deploying machine learning models. Expert in Python, TensorFlow, and MLOps. Strong background in recommendation systems and NLP.",
+    "skills": ["machine-learning", "python", "tensorflow", "mlops", "recommendation-systems", "nlp", "kubernetes", "model-deployment"],
+    "years_experience": 4,
+    "location": {
+      "city": "Aarhus",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "sv"],
+    "open_to_remote": true,
+    "desired_salary": 72000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-13T09:50:00Z"
+  },
+  {
+    "id": "candidate_091",
+    "name": "Lisa Müller",
+    "title": "Digital Product Designer",
+    "summary": "Digital product designer with 4 years of experience in user-centered design. Expert in design thinking, prototyping, and design systems. Strong collaboration skills with development teams.",
+    "skills": ["product-design", "design-thinking", "prototyping", "design-systems", "user-centered-design", "figma", "collaboration", "user-research"],
+    "years_experience": 4,
+    "location": {
+      "city": "Dresden",
+      "country": "Germany"
+    },
+    "languages": ["de", "en"],
+    "open_to_remote": true,
+    "desired_salary": 60000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-12T13:25:00Z"
+  },
+  {
+    "id": "candidate_092",
+    "name": "Joris van der Berg",
+    "title": "Backend Engineer",
+    "summary": "Backend engineer with 6 years of experience in scalable web services. Expert in Python, Go, and distributed systems. Strong background in API design and performance optimization.",
+    "skills": ["python", "golang", "distributed-systems", "api-design", "performance-optimization", "microservices", "docker", "kubernetes"],
+    "years_experience": 6,
+    "location": {
+      "city": "Maastricht",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en", "de"],
+    "open_to_remote": false,
+    "desired_salary": 75000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-11T10:40:00Z"
+  },
+  {
+    "id": "candidate_093",
+    "name": "Elodie Martin",
+    "title": "QA Engineer",
+    "summary": "QA engineer with 3 years of experience in software testing and quality assurance. Strong background in test automation, API testing, and continuous integration. Detail-oriented and methodical.",
+    "skills": ["qa", "test-automation", "api-testing", "continuous-integration", "selenium", "postman", "junit", "defect-tracking"],
+    "years_experience": 3,
+    "location": {
+      "city": "Montpellier",
+      "country": "France"
+    },
+    "languages": ["fr", "en"],
+    "open_to_remote": true,
+    "desired_salary": 50000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-10T15:15:00Z"
+  },
+  {
+    "id": "candidate_094",
+    "name": "Oscar Lindqvist",
+    "title": "Site Reliability Engineer",
+    "summary": "SRE with 5 years of experience in maintaining highly available systems. Expert in monitoring, incident response, and automation. Strong background in distributed systems and cloud platforms.",
+    "skills": ["sre", "monitoring", "incident-response", "automation", "distributed-systems", "cloud", "prometheus", "grafana"],
+    "years_experience": 5,
+    "location": {
+      "city": "Örebro",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "no"],
+    "open_to_remote": true,
+    "desired_salary": 78000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-09T12:00:00Z"
+  },
+  {
+    "id": "candidate_095",
+    "name": "Carla Santos",
+    "title": "Data Engineer",
+    "summary": "Data engineer with 5 years of experience in big data processing and analytics. Expert in Apache Spark, Kafka, and data lake architectures. Strong background in ETL development and optimization.",
+    "skills": ["data-engineering", "spark", "kafka", "data-lake", "etl", "python", "sql", "aws"],
+    "years_experience": 5,
+    "location": {
+      "city": "Aveiro",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en"],
+    "open_to_remote": false,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-08T08:30:00Z"
+  },
+  {
+    "id": "candidate_096",
+    "name": "Jakub Svoboda",
+    "title": "Full Stack Developer",
+    "summary": "Full stack developer with 3 years of experience in modern web development. Proficient in React, Node.js, and PostgreSQL. Strong interest in clean code and test-driven development.",
+    "skills": ["react", "nodejs", "postgresql", "javascript", "typescript", "clean-code", "tdd", "docker"],
+    "years_experience": 3,
+    "location": {
+      "city": "Ostrava",
+      "country": "Czech Republic"
+    },
+    "languages": ["cs", "en", "sk"],
+    "open_to_remote": true,
+    "desired_salary": 48000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-07T14:45:00Z"
+  },
+  {
+    "id": "candidate_097",
+    "name": "Victoria Brown",
+    "title": "UX Researcher",
+    "summary": "UX researcher with 3 years of experience in user research and behavioral analysis. Expert in qualitative and quantitative research methods. Strong background in usability testing and data analysis.",
+    "skills": ["ux-research", "user-research", "usability-testing", "qualitative-research", "quantitative-research", "data-analysis", "interviews", "surveys"],
+    "years_experience": 3,
+    "location": {
+      "city": "Oxford",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 52000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-06-06T11:20:00Z"
+  },
+  {
+    "id": "candidate_098",
+    "name": "Mikael Johansson",
+    "title": "Network Administrator",
+    "summary": "Network administrator with 4 years of experience in enterprise networking. Expert in Cisco equipment, network security, and troubleshooting. Strong background in VLAN configuration and routing.",
+    "skills": ["networking", "cisco", "network-security", "troubleshooting", "vlan", "routing", "switching", "firewall"],
+    "years_experience": 4,
+    "location": {
+      "city": "Jönköping",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en"],
+    "open_to_remote": false,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-05T16:55:00Z"
+  },
+  {
+    "id": "candidate_099",
+    "name": "Francesca Conti",
+    "title": "Software Developer",
+    "summary": "Software developer with 2 years of experience in web development. Proficient in JavaScript, Python, and SQL. Strong foundation in software engineering principles and eager to contribute to innovative projects.",
+    "skills": ["javascript", "python", "sql", "web-development", "software-engineering", "git", "testing", "agile"],
+    "years_experience": 2,
+    "location": {
+      "city": "Pisa",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": true,
+    "desired_salary": 42000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-04T09:30:00Z"
+  },
+  {
+    "id": "candidate_100",
+    "name": "Lars Hansen",
+    "title": "DevOps Specialist",
+    "summary": "DevOps specialist with 4 years of experience in CI/CD and infrastructure automation. Expert in Docker, Kubernetes, and cloud platforms. Strong background in monitoring and deployment strategies.",
+    "skills": ["devops", "ci-cd", "docker", "kubernetes", "automation", "monitoring", "deployment", "terraform"],
+    "years_experience": 4,
+    "location": {
+      "city": "Aalborg",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "sv"],
+    "open_to_remote": true,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-03T13:40:00Z"
+  },
+  {
+    "id": "candidate_101",
+    "name": "Irene Bakker",
+    "title": "Data Scientist",
+    "summary": "Data scientist with 5 years of experience in predictive modeling and machine learning. Expert in Python, R, and statistical analysis. Strong background in business intelligence and data visualization.",
+    "skills": ["data-science", "python", "r", "machine-learning", "statistical-analysis", "predictive-modeling", "data-visualization", "business-intelligence"],
+    "years_experience": 5,
+    "location": {
+      "city": "Apeldoorn",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": true,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-02T10:15:00Z"
+  },
+  {
+    "id": "candidate_102",
+    "name": "Antoine Bernard",
+    "title": "Frontend Architect",
+    "summary": "Frontend architect with 8 years of experience in large-scale web applications. Expert in React, Angular, and modern frontend tooling. Strong background in performance optimization and architecture design.",
+    "skills": ["frontend-architecture", "react", "angular", "performance-optimization", "architecture-design", "webpack", "micro-frontends", "leadership"],
+    "years_experience": 8,
+    "location": {
+      "city": "Grenoble",
+      "country": "France"
+    },
+    "languages": ["fr", "en"],
+    "open_to_remote": false,
+    "desired_salary": 88000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-06-01T15:50:00Z"
+  },
+  {
+    "id": "candidate_103",
+    "name": "Giulia Esposito",
+    "title": "Business Intelligence Developer",
+    "summary": "BI developer with 4 years of experience in data warehousing and reporting. Expert in SQL Server, SSIS, and Power BI. Strong background in ETL development and data modeling.",
+    "skills": ["bi", "sql-server", "ssis", "power-bi", "etl", "data-modeling", "data-warehousing", "reporting"],
+    "years_experience": 4,
+    "location": {
+      "city": "Trieste",
+      "country": "Italy"
+    },
+    "languages": ["it", "en", "sl"],
+    "open_to_remote": true,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-31T12:25:00Z"
+  },
+  {
+    "id": "candidate_104",
+    "name": "Jack Davies",
+    "title": "Cloud Engineer",
+    "summary": "Cloud engineer with 3 years of experience in AWS and infrastructure automation. Strong background in serverless architectures, containerization, and monitoring. Passionate about scalable solutions.",
+    "skills": ["cloud", "aws", "serverless", "containerization", "monitoring", "infrastructure-automation", "lambda", "ecs"],
+    "years_experience": 3,
+    "location": {
+      "city": "Brighton",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-05-30T08:40:00Z"
+  },
+  {
+    "id": "candidate_105",
+    "name": "Solveig Andersen",
+    "title": "Software Test Engineer",
+    "summary": "Software test engineer with 4 years of experience in test automation and quality assurance. Expert in Selenium, TestNG, and continuous testing. Strong background in API and mobile testing.",
+    "skills": ["test-automation", "selenium", "testng", "continuous-testing", "api-testing", "mobile-testing", "quality-assurance", "ci-cd"],
+    "years_experience": 4,
+    "location": {
+      "city": "Kristiansand",
+      "country": "Norway"
+    },
+    "languages": ["no", "en", "da"],
+    "open_to_remote": false,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-29T14:30:00Z"
+  },
+  {
+    "id": "candidate_106",
+    "name": "Rui Silva",
+    "title": "Mobile App Developer",
+    "summary": "Mobile app developer with 3 years of experience in native and cross-platform development. Expert in React Native, Swift, and Kotlin. Strong focus on user experience and performance.",
+    "skills": ["mobile-development", "react-native", "swift", "kotlin", "user-experience", "performance", "firebase", "app-optimization"],
+    "years_experience": 3,
+    "location": {
+      "city": "Funchal",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en"],
+    "open_to_remote": true,
+    "desired_salary": 50000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-28T11:45:00Z"
+  },
+  {
+    "id": "candidate_107",
+    "name": "Tereza Novakova",
+    "title": "Backend Developer",
+    "summary": "Backend developer with 3 years of experience in API development and microservices. Proficient in Java, Spring Boot, and PostgreSQL. Strong background in clean architecture and testing.",
+    "skills": ["java", "spring-boot", "postgresql", "microservices", "api-development", "clean-architecture", "testing", "docker"],
+    "years_experience": 3,
+    "location": {
+      "city": "Plzen",
+      "country": "Czech Republic"
+    },
+    "languages": ["cs", "en", "de"],
+    "open_to_remote": false,
+    "desired_salary": 48000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-27T16:20:00Z"
+  },
+  {
+    "id": "candidate_108",
+    "name": "Rebecca Johnson",
+    "title": "Technical Project Manager",
+    "summary": "Technical project manager with 6 years of experience leading software development projects. Strong background in agile methodologies, risk management, and stakeholder communication. PMP certified.",
+    "skills": ["technical-project-management", "agile", "risk-management", "stakeholder-communication", "pmp", "jira", "confluence", "team-leadership"],
+    "years_experience": 6,
+    "location": {
+      "city": "Cambridge",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 75000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-05-26T09:55:00Z"
+  },
+  {
+    "id": "candidate_109",
+    "name": "Gustav Eriksson",
+    "title": "Game Developer",
+    "summary": "Game developer with 4 years of experience in Unity game development. Expert in C#, game design, and 3D graphics. Strong background in mobile and PC game development.",
+    "skills": ["game-development", "unity", "csharp", "game-design", "3d-graphics", "mobile-games", "pc-games", "optimization"],
+    "years_experience": 4,
+    "location": {
+      "city": "Umeå",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "fi"],
+    "open_to_remote": false,
+    "desired_salary": 60000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-25T13:10:00Z"
+  },
+  {
+    "id": "candidate_110",
+    "name": "Amélie Lefevre",
+    "title": "UI Designer",
+    "summary": "UI designer with 3 years of experience in digital interface design. Expert in Figma, design systems, and visual design. Strong background in mobile and web interface design.",
+    "skills": ["ui-design", "figma", "design-systems", "visual-design", "mobile-design", "web-design", "prototyping", "accessibility"],
+    "years_experience": 3,
+    "location": {
+      "city": "Lille",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "nl"],
+    "open_to_remote": true,
+    "desired_salary": 48000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-24T10:35:00Z"
+  },
+  {
+    "id": "candidate_111",
+    "name": "Marco Verdi",
+    "title": "Software Engineer",
+    "summary": "Software engineer with 2 years of experience in full-stack development. Proficient in JavaScript, React, and Node.js. Strong foundation in computer science principles and eager to contribute.",
+    "skills": ["javascript", "react", "nodejs", "full-stack", "computer-science", "algorithms", "data-structures", "git"],
+    "years_experience": 2,
+    "location": {
+      "city": "Padua",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": true,
+    "desired_salary": 44000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-23T15:25:00Z"
+  },
+  {
+    "id": "candidate_112",
+    "name": "Jeroen van der Laan",
+    "title": "Senior Backend Developer",
+    "summary": "Senior backend developer with 9 years of experience in scalable web services. Expert in .NET, C#, and microservices architecture. Strong background in performance optimization and system design.",
+    "skills": ["dotnet", "csharp", "microservices", "performance-optimization", "system-design", "sql-server", "azure", "api-design"],
+    "years_experience": 9,
+    "location": {
+      "city": "Leeuwarden",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en", "fy"],
+    "open_to_remote": true,
+    "desired_salary": 88000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-22T12:15:00Z"
+  },
+  {
+    "id": "candidate_113",
+    "name": "Charlotte Dubois",
+    "title": "Data Analyst",
+    "summary": "Data analyst with 2 years of experience in business analytics and data visualization. Strong background in SQL, Python, and Tableau. Recent graduate with strong mathematical foundation.",
+    "skills": ["data-analysis", "sql", "python", "tableau", "business-analytics", "data-visualization", "statistics", "excel"],
+    "years_experience": 2,
+    "location": {
+      "city": "Nancy",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "de"],
+    "open_to_remote": true,
+    "desired_salary": 42000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-21T08:50:00Z"
+  },
+  {
+    "id": "candidate_114",
+    "name": "Alessandro Bianchi",
+    "title": "Cybersecurity Specialist",
+    "summary": "Cybersecurity specialist with 5 years of experience in information security and risk assessment. Expert in security frameworks, incident response, and vulnerability management. CISSP certified.",
+    "skills": ["cybersecurity", "information-security", "risk-assessment", "security-frameworks", "incident-response", "vulnerability-management", "cissp", "compliance"],
+    "years_experience": 5,
+    "location": {
+      "city": "Brescia",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-20T14:40:00Z"
+  },
+  {
+    "id": "candidate_115",
+    "name": "William Anderson",
+    "title": "Solutions Engineer",
+    "summary": "Solutions engineer with 4 years of experience in technical consulting and solution design. Strong background in enterprise software, integration, and customer-facing technical work.",
+    "skills": ["solutions-engineering", "technical-consulting", "solution-design", "enterprise-software", "integration", "customer-facing", "presentations", "troubleshooting"],
+    "years_experience": 4,
+    "location": {
+      "city": "York",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 65000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-05-19T11:30:00Z"
+  },
+  {
+    "id": "candidate_116",
+    "name": "Emilie Larsen",
+    "title": "Frontend Developer",
+    "summary": "Frontend developer with 3 years of experience in modern web development. Expert in Vue.js, JavaScript, and responsive design. Strong focus on accessibility and user experience.",
+    "skills": ["vue", "javascript", "responsive-design", "accessibility", "user-experience", "css", "html", "webpack"],
+    "years_experience": 3,
+    "location": {
+      "city": "Esbjerg",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "no"],
+    "open_to_remote": false,
+    "desired_salary": 52000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-18T16:45:00Z"
+  },
+  {
+    "id": "candidate_117",
+    "name": "Nuno Costa",
+    "title": "Infrastructure Engineer",
+    "summary": "Infrastructure engineer with 5 years of experience in cloud infrastructure and automation. Expert in AWS, Terraform, and containerization. Strong background in monitoring and incident response.",
+    "skills": ["infrastructure", "aws", "terraform", "containerization", "monitoring", "incident-response", "automation", "linux"],
+    "years_experience": 5,
+    "location": {
+      "city": "Setúbal",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en"],
+    "open_to_remote": true,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-17T09:20:00Z"
+  },
+  {
+    "id": "candidate_118",
+    "name": "Pavel Novak",
+    "title": "Machine Learning Engineer",
+    "summary": "ML engineer with 3 years of experience in deep learning and computer vision. Strong background in PyTorch, TensorFlow, and model deployment. PhD in Computer Vision from Charles University.",
+    "skills": ["machine-learning", "deep-learning", "computer-vision", "pytorch", "tensorflow", "model-deployment", "research", "opencv"],
+    "years_experience": 3,
+    "location": {
+      "city": "Liberec",
+      "country": "Czech Republic"
+    },
+    "languages": ["cs", "en", "de"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-16T13:55:00Z"
+  },
+  {
+    "id": "candidate_119",
+    "name": "Fiona MacLeod",
+    "title": "Product Designer",
+    "summary": "Product designer with 4 years of experience in digital product design. Expert in user-centered design, design thinking, and collaboration with cross-functional teams. Strong background in B2B products.",
+    "skills": ["product-design", "user-centered-design", "design-thinking", "cross-functional-collaboration", "b2b-products", "figma", "user-research", "prototyping"],
+    "years_experience": 4,
+    "location": {
+      "city": "Aberdeen",
+      "country": "United Kingdom"
+    },
+    "languages": ["en", "gd"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-05-15T10:40:00Z"
+  },
+  {
+    "id": "candidate_120",
+    "name": "Axel Petersson",
+    "title": "Senior DevOps Engineer",
+    "summary": "Senior DevOps engineer with 8 years of experience in enterprise DevOps transformation. Expert in Kubernetes, CI/CD, and cloud-native technologies. Strong background in mentoring and process improvement.",
+    "skills": ["senior-devops", "kubernetes", "ci-cd", "cloud-native", "devops-transformation", "mentoring", "process-improvement", "automation"],
+    "years_experience": 8,
+    "location": {
+      "city": "Växjö",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "da"],
+    "open_to_remote": false,
+    "desired_salary": 90000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-14T15:30:00Z"
+  },
+  {
+    "id": "candidate_121",
+    "name": "Simone Rossi",
+    "title": "Junior Python Developer",
+    "summary": "Junior Python developer with 1 year of experience in web development. Strong foundation in Django and PostgreSQL. Recent computer science graduate eager to grow in backend development.",
+    "skills": ["python", "django", "postgresql", "html", "css", "git", "linux", "rest-api"],
+    "years_experience": 1,
+    "location": {
+      "city": "Amsterdam",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en", "it"],
+    "open_to_remote": true,
+    "desired_salary": 35000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-13T12:15:00Z"
+  },
+  {
+    "id": "candidate_122",
+    "name": "Magnus Olsen",
+    "title": "Frontend Developer",
+    "summary": "Frontend developer with 4 years of experience in React and TypeScript. Strong background in responsive design and performance optimization. Passionate about creating excellent user experiences.",
+    "skills": ["react", "typescript", "responsive-design", "performance-optimization", "css", "javascript", "webpack", "testing"],
+    "years_experience": 4,
+    "location": {
+      "city": "Oslo",
+      "country": "Norway"
+    },
+    "languages": ["no", "en", "da"],
+    "open_to_remote": false,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-12T09:40:00Z"
+  },
+  {
+    "id": "candidate_123",
+    "name": "Celine Dupont",
+    "title": "Data Scientist",
+    "summary": "Data scientist with 3 years of experience in machine learning and statistical analysis. Expert in Python, R, and data visualization. Strong background in predictive modeling for business applications.",
+    "skills": ["python", "r", "machine-learning", "statistics", "data-visualization", "predictive-modeling", "jupyter", "pandas"],
+    "years_experience": 3,
+    "location": {
+      "city": "Brussels",
+      "country": "Belgium"
+    },
+    "languages": ["fr", "nl", "en"],
+    "open_to_remote": true,
+    "desired_salary": 52000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-11T14:25:00Z"
+  },
+  {
+    "id": "candidate_124",
+    "name": "Diego Martinez",
+    "title": "Full Stack Developer",
+    "summary": "Full stack developer with 5 years of experience in modern web development. Proficient in Angular, Node.js, and MongoDB. Strong background in e-commerce and fintech applications.",
+    "skills": ["angular", "nodejs", "mongodb", "express", "typescript", "e-commerce", "fintech", "api-development"],
+    "years_experience": 5,
+    "location": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "languages": ["es", "en", "pt"],
+    "open_to_remote": false,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-10T11:50:00Z"
+  },
+  {
+    "id": "candidate_125",
+    "name": "Astrid Nielsen",
+    "title": "DevOps Engineer",
+    "summary": "DevOps engineer with 4 years of experience in cloud infrastructure and automation. Expert in AWS, Docker, and CI/CD pipelines. Strong advocate for infrastructure as code practices.",
+    "skills": ["devops", "aws", "docker", "ci-cd", "terraform", "infrastructure-as-code", "monitoring", "automation"],
+    "years_experience": 4,
+    "location": {
+      "city": "Copenhagen",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "sv"],
+    "open_to_remote": true,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-09T16:30:00Z"
+  },
+  {
+    "id": "candidate_126",
+    "name": "Luca Ferrari",
+    "title": "Mobile Developer",
+    "summary": "Mobile developer with 3 years of experience in iOS and Android development. Expert in Swift, Kotlin, and React Native. Strong focus on user experience and app performance.",
+    "skills": ["swift", "kotlin", "ios", "android", "react-native", "user-experience", "app-performance", "firebase"],
+    "years_experience": 3,
+    "location": {
+      "city": "Milan",
+      "country": "Italy"
+    },
+    "languages": ["it", "en", "fr"],
+    "open_to_remote": false,
+    "desired_salary": 50000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-08T08:15:00Z"
+  },
+  {
+    "id": "candidate_127",
+    "name": "Sophie Williams",
+    "title": "UX Designer",
+    "summary": "UX designer with 2 years of experience in user research and interface design. Strong background in design thinking, prototyping, and usability testing. Passionate about accessible design.",
+    "skills": ["ux-design", "user-research", "design-thinking", "prototyping", "usability-testing", "accessible-design", "figma", "sketch"],
+    "years_experience": 2,
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 45000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-05-07T13:45:00Z"
+  },
+  {
+    "id": "candidate_128",
+    "name": "Erik Johansson",
+    "title": "Backend Developer",
+    "summary": "Backend developer with 6 years of experience in Java and Spring ecosystem. Expert in microservices architecture and API development. Strong background in performance optimization.",
+    "skills": ["java", "spring-boot", "microservices", "api-development", "performance-optimization", "postgresql", "docker", "kubernetes"],
+    "years_experience": 6,
+    "location": {
+      "city": "Stockholm",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "fi"],
+    "open_to_remote": true,
+    "desired_salary": 72000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-06T10:20:00Z"
+  },
+  {
+    "id": "candidate_129",
+    "name": "Marie Leroy",
+    "title": "Product Manager",
+    "summary": "Product manager with 4 years of experience in digital product development. Strong background in agile methodologies, user research, and stakeholder management. Data-driven approach to product decisions.",
+    "skills": ["product-management", "agile", "user-research", "stakeholder-management", "data-driven-decisions", "roadmapping", "analytics", "jira"],
+    "years_experience": 4,
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "es"],
+    "open_to_remote": false,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-05T15:55:00Z"
+  },
+  {
+    "id": "candidate_130",
+    "name": "Tom van der Berg",
+    "title": "Machine Learning Engineer",
+    "summary": "ML engineer with 5 years of experience in developing and deploying machine learning models. Expert in Python, TensorFlow, and MLOps. Strong background in computer vision and NLP.",
+    "skills": ["machine-learning", "python", "tensorflow", "mlops", "computer-vision", "nlp", "kubernetes", "aws"],
+    "years_experience": 5,
+    "location": {
+      "city": "Utrecht",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en", "de"],
+    "open_to_remote": true,
+    "desired_salary": 75000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-04T12:30:00Z"
+  },
+  {
+    "id": "candidate_131",
+    "name": "Anna Nowak",
+    "title": "QA Engineer",
+    "summary": "QA engineer with 3 years of experience in test automation and quality assurance. Expert in Selenium, Cypress, and API testing. Strong background in agile testing methodologies.",
+    "skills": ["qa", "test-automation", "selenium", "cypress", "api-testing", "agile-testing", "junit", "postman"],
+    "years_experience": 3,
+    "location": {
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    "languages": ["pl", "en", "de"],
+    "open_to_remote": false,
+    "desired_salary": 48000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-03T09:10:00Z"
+  },
+  {
+    "id": "candidate_132",
+    "name": "Carlos Silva",
+    "title": "Cloud Architect",
+    "summary": "Cloud architect with 8 years of experience in enterprise cloud solutions. Expert in AWS, Azure, and multi-cloud strategies. Strong background in cloud migration and cost optimization.",
+    "skills": ["cloud-architecture", "aws", "azure", "multi-cloud", "cloud-migration", "cost-optimization", "terraform", "serverless"],
+    "years_experience": 8,
+    "location": {
+      "city": "Lisbon",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en", "es"],
+    "open_to_remote": true,
+    "desired_salary": 85000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-02T14:40:00Z"
+  },
+  {
+    "id": "candidate_133",
+    "name": "Ingrid Hansen",
+    "title": "Frontend Architect",
+    "summary": "Frontend architect with 7 years of experience in large-scale web applications. Expert in React, Vue.js, and modern frontend tooling. Strong background in performance optimization and team leadership.",
+    "skills": ["frontend-architecture", "react", "vue", "performance-optimization", "team-leadership", "webpack", "micro-frontends", "typescript"],
+    "years_experience": 7,
+    "location": {
+      "city": "Bergen",
+      "country": "Norway"
+    },
+    "languages": ["no", "en", "da"],
+    "open_to_remote": false,
+    "desired_salary": 80000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-05-01T11:25:00Z"
+  },
+  {
+    "id": "candidate_134",
+    "name": "Marco Bianchi",
+    "title": "Database Administrator",
+    "summary": "Database administrator with 6 years of experience in PostgreSQL and MySQL. Expert in database optimization, backup strategies, and high availability setups. Strong troubleshooting skills.",
+    "skills": ["postgresql", "mysql", "database-optimization", "backup-strategies", "high-availability", "troubleshooting", "monitoring", "linux"],
+    "years_experience": 6,
+    "location": {
+      "city": "Rome",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": true,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-30T16:15:00Z"
+  },
+  {
+    "id": "candidate_135",
+    "name": "Helena Schmidt",
+    "title": "Security Engineer",
+    "summary": "Security engineer with 4 years of experience in cybersecurity and threat detection. Expert in security frameworks, penetration testing, and incident response. CISSP certified professional.",
+    "skills": ["cybersecurity", "threat-detection", "security-frameworks", "penetration-testing", "incident-response", "cissp", "vulnerability-assessment", "compliance"],
+    "years_experience": 4,
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "languages": ["de", "en", "fr"],
+    "open_to_remote": false,
+    "desired_salary": 70000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-29T08:50:00Z"
+  },
+  {
+    "id": "candidate_136",
+    "name": "Oliver Brown",
+    "title": "Site Reliability Engineer",
+    "summary": "SRE with 5 years of experience maintaining highly available distributed systems. Expert in monitoring, alerting, and automation. Strong background in incident management and post-mortem analysis.",
+    "skills": ["sre", "monitoring", "alerting", "automation", "incident-management", "post-mortem", "distributed-systems", "golang"],
+    "years_experience": 5,
+    "location": {
+      "city": "Dublin",
+      "country": "Ireland"
+    },
+    "languages": ["en", "ga"],
+    "open_to_remote": true,
+    "desired_salary": 75000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-28T13:35:00Z"
+  },
+  {
+    "id": "candidate_137",
+    "name": "Lisa Andersson",
+    "title": "Data Engineer",
+    "summary": "Data engineer with 4 years of experience in big data processing and ETL pipelines. Expert in Apache Spark, Kafka, and data warehousing. Strong background in real-time data processing.",
+    "skills": ["data-engineering", "spark", "kafka", "etl", "data-warehousing", "real-time-processing", "python", "sql"],
+    "years_experience": 4,
+    "location": {
+      "city": "Gothenburg",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "no"],
+    "open_to_remote": false,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-27T10:20:00Z"
+  },
+  {
+    "id": "candidate_138",
+    "name": "François Martin",
+    "title": "Software Architect",
+    "summary": "Software architect with 10 years of experience in enterprise software design. Expert in microservices, domain-driven design, and system integration. Strong technical leadership skills.",
+    "skills": ["software-architecture", "microservices", "domain-driven-design", "system-integration", "technical-leadership", "java", "spring", "kubernetes"],
+    "years_experience": 10,
+    "location": {
+      "city": "Lyon",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "it"],
+    "open_to_remote": true,
+    "desired_salary": 95000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-26T15:45:00Z"
+  },
+  {
+    "id": "candidate_139",
+    "name": "Julia Weber",
+    "title": "Business Analyst",
+    "summary": "Business analyst with 3 years of experience in requirements analysis and process improvement. Strong background in stakeholder management and business process modeling. Certified in agile methodologies.",
+    "skills": ["business-analysis", "requirements-analysis", "process-improvement", "stakeholder-management", "business-process-modeling", "agile", "jira", "confluence"],
+    "years_experience": 3,
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "languages": ["de", "en", "ru"],
+    "open_to_remote": true,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-25T12:10:00Z"
+  },
+  {
+    "id": "candidate_140",
+    "name": "Pieter van Dam",
+    "title": "Game Developer",
+    "summary": "Game developer with 4 years of experience in Unity game development. Expert in C#, game design, and mobile game optimization. Published several successful mobile games on app stores.",
+    "skills": ["game-development", "unity", "csharp", "game-design", "mobile-optimization", "app-store", "play-store", "monetization"],
+    "years_experience": 4,
+    "location": {
+      "city": "Rotterdam",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-24T09:30:00Z"
+  },
+  {
+    "id": "candidate_141",
+    "name": "Emma Johnson",
+    "title": "Technical Writer",
+    "summary": "Technical writer with 3 years of experience creating software documentation and user guides. Expert in API documentation, content strategy, and developer experience. Strong communication skills.",
+    "skills": ["technical-writing", "api-documentation", "content-strategy", "developer-experience", "communication", "markdown", "git", "confluence"],
+    "years_experience": 3,
+    "location": {
+      "city": "Edinburgh",
+      "country": "United Kingdom"
+    },
+    "languages": ["en", "gd"],
+    "open_to_remote": true,
+    "desired_salary": 48000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-04-23T14:55:00Z"
+  },
+  {
+    "id": "candidate_142",
+    "name": "Matteo Rossi",
+    "title": "Android Developer",
+    "summary": "Android developer with 5 years of experience in native Android development. Expert in Kotlin, Android SDK, and modern Android architecture patterns. Strong focus on performance and user experience.",
+    "skills": ["android", "kotlin", "android-sdk", "mvvm", "performance", "user-experience", "room", "retrofit"],
+    "years_experience": 5,
+    "location": {
+      "city": "Naples",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-22T11:40:00Z"
+  },
+  {
+    "id": "candidate_143",
+    "name": "Kasper Hansen",
+    "title": "Platform Engineer",
+    "summary": "Platform engineer with 5 years of experience building developer platforms and internal tools. Expert in Kubernetes, automation, and developer experience. Strong background in infrastructure as code.",
+    "skills": ["platform-engineering", "kubernetes", "automation", "developer-experience", "infrastructure-as-code", "terraform", "jenkins", "monitoring"],
+    "years_experience": 5,
+    "location": {
+      "city": "Aalborg",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "sv"],
+    "open_to_remote": true,
+    "desired_salary": 72000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-21T16:25:00Z"
+  },
+  {
+    "id": "candidate_144",
+    "name": "Isabelle Dubois",
+    "title": "UI/UX Designer",
+    "summary": "UI/UX designer with 4 years of experience in digital design and user research. Expert in user-centered design, design systems, and accessibility. Strong background in e-commerce and SaaS products.",
+    "skills": ["ui-design", "ux-design", "user-research", "design-systems", "accessibility", "e-commerce", "saas", "figma"],
+    "years_experience": 4,
+    "location": {
+      "city": "Toulouse",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "es"],
+    "open_to_remote": false,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-20T08:15:00Z"
+  },
+  {
+    "id": "candidate_145",
+    "name": "Lars Nilsson",
+    "title": "Network Engineer",
+    "summary": "Network engineer with 6 years of experience in enterprise networking and security. Expert in Cisco equipment, network protocols, and firewall management. CCNP certified professional.",
+    "skills": ["networking", "cisco", "network-protocols", "firewall-management", "ccnp", "network-security", "vpn", "routing"],
+    "years_experience": 6,
+    "location": {
+      "city": "Malmö",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "da"],
+    "open_to_remote": false,
+    "desired_salary": 70000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-19T13:50:00Z"
+  },
+  {
+    "id": "candidate_146",
+    "name": "Beatriz Santos",
+    "title": "Data Scientist",
+    "summary": "Data scientist with 4 years of experience in machine learning and predictive analytics. Expert in Python, R, and statistical modeling. Strong background in healthcare and finance applications.",
+    "skills": ["data-science", "machine-learning", "predictive-analytics", "python", "r", "statistical-modeling", "healthcare", "finance"],
+    "years_experience": 4,
+    "location": {
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en", "es"],
+    "open_to_remote": true,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-18T10:35:00Z"
+  },
+  {
+    "id": "candidate_147",
+    "name": "Václav Novák",
+    "title": "Embedded Systems Engineer",
+    "summary": "Embedded systems engineer with 7 years of experience in firmware development. Expert in C/C++, microcontrollers, and real-time systems. Strong background in automotive and IoT applications.",
+    "skills": ["embedded-systems", "c", "cpp", "microcontrollers", "real-time-systems", "automotive", "iot", "can-bus"],
+    "years_experience": 7,
+    "location": {
+      "city": "Prague",
+      "country": "Czech Republic"
+    },
+    "languages": ["cs", "en", "de"],
+    "open_to_remote": false,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-17T15:20:00Z"
+  },
+  {
+    "id": "candidate_148",
+    "name": "Sarah Davis",
+    "title": "Product Owner",
+    "summary": "Product owner with 3 years of experience in agile product development. Strong background in user story writing, backlog management, and stakeholder communication. Certified Scrum Product Owner.",
+    "skills": ["product-owner", "agile", "user-stories", "backlog-management", "stakeholder-communication", "scrum", "jira", "roadmapping"],
+    "years_experience": 3,
+    "location": {
+      "city": "Manchester",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-04-16T12:45:00Z"
+  },
+  {
+    "id": "candidate_149",
+    "name": "Andrea Romano",
+    "title": "Full Stack Developer",
+    "summary": "Full stack developer with 3 years of experience in web development. Proficient in Vue.js, Node.js, and PostgreSQL. Strong interest in clean architecture and modern development practices.",
+    "skills": ["vue", "nodejs", "postgresql", "full-stack", "clean-architecture", "javascript", "typescript", "docker"],
+    "years_experience": 3,
+    "location": {
+      "city": "Florence",
+      "country": "Italy"
+    },
+    "languages": ["it", "en", "fr"],
+    "open_to_remote": true,
+    "desired_salary": 50000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-15T09:30:00Z"
+  },
+  {
+    "id": "candidate_150",
+    "name": "Nils Andersen",
+    "title": "Cloud Solutions Engineer",
+    "summary": "Cloud solutions engineer with 4 years of experience in cloud infrastructure design and implementation. Expert in AWS, GCP, and infrastructure automation. Strong background in serverless architectures.",
+    "skills": ["cloud-solutions", "aws", "gcp", "infrastructure-automation", "serverless", "terraform", "lambda", "cloud-functions"],
+    "years_experience": 4,
+    "location": {
+      "city": "Trondheim",
+      "country": "Norway"
+    },
+    "languages": ["no", "en", "sv"],
+    "open_to_remote": true,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-14T14:15:00Z"
+  },
+  {
+    "id": "candidate_151",
+    "name": "Camille Laurent",
+    "title": "Machine Learning Researcher",
+    "summary": "ML researcher with PhD in Computer Science and 3 years of research experience. Expert in deep learning, computer vision, and natural language processing. Published researcher with multiple papers.",
+    "skills": ["machine-learning-research", "deep-learning", "computer-vision", "nlp", "research", "pytorch", "tensorflow", "python"],
+    "years_experience": 3,
+    "location": {
+      "city": "Strasbourg",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "de"],
+    "open_to_remote": false,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-13T11:00:00Z"
+  },
+  {
+    "id": "candidate_152",
+    "name": "Thijs de Vries",
+    "title": "Software Engineer",
+    "summary": "Software engineer with 2 years of experience in backend development. Proficient in Python, Django, and REST API development. Strong foundation in computer science and eager to grow.",
+    "skills": ["python", "django", "rest-api", "software-engineering", "computer-science", "postgresql", "git", "testing"],
+    "years_experience": 2,
+    "location": {
+      "city": "Eindhoven",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 45000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-12T16:40:00Z"
+  },
+  {
+    "id": "candidate_153",
+    "name": "Rebecca Taylor",
+    "title": "Scrum Master",
+    "summary": "Scrum Master with 4 years of experience facilitating agile teams and coaching organizations. Strong background in scaled agile frameworks and continuous improvement. Certified Scrum Master and SAFe Agilist.",
+    "skills": ["scrum-master", "agile-coaching", "scaled-agile", "continuous-improvement", "csm", "safe", "facilitation", "team-building"],
+    "years_experience": 4,
+    "location": {
+      "city": "Glasgow",
+      "country": "United Kingdom"
+    },
+    "languages": ["en", "gd"],
+    "open_to_remote": true,
+    "desired_salary": 62000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-04-11T08:25:00Z"
+  },
+  {
+    "id": "candidate_154",
+    "name": "Giovanni Ferrari",
+    "title": "DevSecOps Engineer",
+    "summary": "DevSecOps engineer with 5 years of experience integrating security into CI/CD pipelines. Expert in security scanning, compliance automation, and secure coding practices. Strong background in containerization security.",
+    "skills": ["devsecops", "security-scanning", "compliance-automation", "secure-coding", "containerization-security", "ci-cd", "docker", "kubernetes"],
+    "years_experience": 5,
+    "location": {
+      "city": "Turin",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 72000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-10T13:10:00Z"
+  },
+  {
+    "id": "candidate_155",
+    "name": "Astrid Svensson",
+    "title": "Frontend Developer",
+    "summary": "Frontend developer with 3 years of experience in modern JavaScript frameworks. Expert in React, TypeScript, and responsive design. Strong focus on accessibility and performance optimization.",
+    "skills": ["react", "typescript", "responsive-design", "accessibility", "performance-optimization", "javascript", "css", "webpack"],
+    "years_experience": 3,
+    "location": {
+      "city": "Uppsala",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "fi"],
+    "open_to_remote": true,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-09T10:55:00Z"
+  },
+  {
+    "id": "candidate_156",
+    "name": "Miguel Rodrigues",
+    "title": "Systems Administrator",
+    "summary": "Systems administrator with 5 years of experience managing Linux and Windows server environments. Expert in automation, monitoring, and backup solutions. Strong troubleshooting and scripting skills.",
+    "skills": ["systems-administration", "linux", "windows-server", "automation", "monitoring", "backup-solutions", "scripting", "virtualization"],
+    "years_experience": 5,
+    "location": {
+      "city": "Coimbra",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en"],
+    "open_to_remote": false,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-08T15:30:00Z"
+  },
+  {
+    "id": "candidate_157",
+    "name": "Zuzana Svoboda",
+    "title": "Data Analyst",
+    "summary": "Data analyst with 2 years of experience in business intelligence and reporting. Strong background in SQL, Excel, and data visualization tools. Recent statistics graduate with strong analytical skills.",
+    "skills": ["data-analysis", "sql", "excel", "data-visualization", "business-intelligence", "reporting", "statistics", "tableau"],
+    "years_experience": 2,
+    "location": {
+      "city": "Brno",
+      "country": "Czech Republic"
+    },
+    "languages": ["cs", "en", "sk"],
+    "open_to_remote": true,
+    "desired_salary": 38000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-07T12:15:00Z"
+  },
+  {
+    "id": "candidate_158",
+    "name": "Connor Murphy",
+    "title": "iOS Developer",
+    "summary": "iOS developer with 4 years of experience in native iOS development. Expert in Swift, UIKit, and Core Data. Strong background in App Store optimization and user acquisition strategies.",
+    "skills": ["ios", "swift", "uikit", "core-data", "app-store-optimization", "user-acquisition", "objective-c", "xcode"],
+    "years_experience": 4,
+    "location": {
+      "city": "Cork",
+      "country": "Ireland"
+    },
+    "languages": ["en", "ga"],
+    "open_to_remote": true,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-06T09:45:00Z"
+  },
+  {
+    "id": "candidate_159",
+    "name": "Elena Popova",
+    "title": "Quality Assurance Engineer",
+    "summary": "QA engineer with 3 years of experience in software testing and quality assurance. Expert in test automation, API testing, and performance testing. Strong background in agile testing practices.",
+    "skills": ["qa", "test-automation", "api-testing", "performance-testing", "agile-testing", "selenium", "jmeter", "cypress"],
+    "years_experience": 3,
+    "location": {
+      "city": "Sofia",
+      "country": "Bulgaria"
+    },
+    "languages": ["bg", "en", "ru"],
+    "open_to_remote": false,
+    "desired_salary": 42000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-05T14:20:00Z"
+  },
+  {
+    "id": "candidate_160",
+    "name": "Felix Weber",
+    "title": "Blockchain Developer",
+    "summary": "Blockchain developer with 2 years of experience in smart contract development and DeFi applications. Expert in Solidity, Ethereum, and Web3 technologies. Strong interest in decentralized finance.",
+    "skills": ["blockchain", "solidity", "ethereum", "web3", "defi", "smart-contracts", "javascript", "truffle"],
+    "years_experience": 2,
+    "location": {
+      "city": "Zurich",
+      "country": "Switzerland"
+    },
+    "languages": ["de", "en", "fr"],
+    "open_to_remote": true,
+    "desired_salary": 75000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-04-04T11:35:00Z"
+  },
+  {
+    "id": "candidate_161",
+    "name": "Clara Jensen",
+    "title": "Digital Marketing Manager",
+    "summary": "Digital marketing manager with 4 years of experience in online marketing and growth hacking. Expert in SEO, SEM, and marketing automation. Strong background in B2B and SaaS marketing.",
+    "skills": ["digital-marketing", "seo", "sem", "marketing-automation", "growth-hacking", "b2b-marketing", "saas-marketing", "analytics"],
+    "years_experience": 4,
+    "location": {
+      "city": "Odense",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "de"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-03T16:50:00Z"
+  },
+  {
+    "id": "candidate_162",
+    "name": "Davide Rossi",
+    "title": "Backend Developer",
+    "summary": "Backend developer with 4 years of experience in Node.js and microservices architecture. Strong background in API development, database design, and performance optimization. Passionate about clean code.",
+    "skills": ["nodejs", "microservices", "api-development", "database-design", "performance-optimization", "clean-code", "mongodb", "express"],
+    "years_experience": 4,
+    "location": {
+      "city": "Bologna",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 56000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-02T08:40:00Z"
+  },
+  {
+    "id": "candidate_163",
+    "name": "Sophie Weber",
+    "title": "Business Intelligence Analyst",
+    "summary": "BI analyst with 3 years of experience in data analysis and business reporting. Expert in SQL, Power BI, and data warehousing. Strong background in financial and operational analytics.",
+    "skills": ["business-intelligence", "sql", "power-bi", "data-warehousing", "financial-analytics", "operational-analytics", "excel", "ssrs"],
+    "years_experience": 3,
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "languages": ["de", "en"],
+    "open_to_remote": true,
+    "desired_salary": 52000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-04-01T13:25:00Z"
+  },
+  {
+    "id": "candidate_164",
+    "name": "Joris Bakker",
+    "title": "Infrastructure Engineer",
+    "summary": "Infrastructure engineer with 6 years of experience in enterprise IT infrastructure. Expert in VMware, networking, and storage systems. Strong background in disaster recovery and business continuity.",
+    "skills": ["infrastructure", "vmware", "networking", "storage-systems", "disaster-recovery", "business-continuity", "windows-server", "linux"],
+    "years_experience": 6,
+    "location": {
+      "city": "The Hague",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 72000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-31T10:10:00Z"
+  },
+  {
+    "id": "candidate_165",
+    "name": "Amelia Wilson",
+    "title": "Technical Product Manager",
+    "summary": "Technical product manager with 5 years of experience in B2B software products. Strong background in API products, developer tools, and technical documentation. Engineering background with MBA.",
+    "skills": ["technical-product-management", "api-products", "developer-tools", "technical-documentation", "b2b-software", "engineering", "mba", "roadmapping"],
+    "years_experience": 5,
+    "location": {
+      "city": "Bristol",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 78000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-03-30T15:35:00Z"
+  },
+  {
+    "id": "candidate_166",
+    "name": "Johan Lindberg",
+    "title": "Full Stack Developer",
+    "summary": "Full stack developer with 3 years of experience in modern web development. Proficient in React, .NET Core, and SQL Server. Strong background in e-commerce and enterprise applications.",
+    "skills": ["react", "dotnet-core", "sql-server", "full-stack", "e-commerce", "enterprise-applications", "csharp", "typescript"],
+    "years_experience": 3,
+    "location": {
+      "city": "Linköping",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "da"],
+    "open_to_remote": false,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-29T12:20:00Z"
+  },
+  {
+    "id": "candidate_167",
+    "name": "Lucie Martin",
+    "title": "UX Researcher",
+    "summary": "UX researcher with 2 years of experience in user research and usability testing. Strong background in qualitative research methods, user interviews, and behavioral analysis. Psychology degree background.",
+    "skills": ["ux-research", "user-research", "usability-testing", "qualitative-research", "user-interviews", "behavioral-analysis", "psychology", "figma"],
+    "years_experience": 2,
+    "location": {
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "es"],
+    "open_to_remote": true,
+    "desired_salary": 46000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-28T09:55:00Z"
+  },
+  {
+    "id": "candidate_168",
+    "name": "Giuseppe Conti",
+    "title": "Mobile App Developer",
+    "summary": "Mobile app developer with 4 years of experience in cross-platform development. Expert in Flutter, Dart, and mobile UI/UX design. Strong background in fintech and e-commerce mobile applications.",
+    "skills": ["flutter", "dart", "cross-platform", "mobile-ui", "mobile-ux", "fintech", "e-commerce", "firebase"],
+    "years_experience": 4,
+    "location": {
+      "city": "Palermo",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 52000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-27T14:40:00Z"
+  },
+  {
+    "id": "candidate_169",
+    "name": "Maja Petersen",
+    "title": "Cloud DevOps Engineer",
+    "summary": "Cloud DevOps engineer with 5 years of experience in multi-cloud environments. Expert in Azure, AWS, and infrastructure automation. Strong background in containerization and microservices deployment.",
+    "skills": ["cloud-devops", "azure", "aws", "multi-cloud", "infrastructure-automation", "containerization", "microservices", "terraform"],
+    "years_experience": 5,
+    "location": {
+      "city": "Aarhus",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "no"],
+    "open_to_remote": true,
+    "desired_salary": 75000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-26T11:15:00Z"
+  },
+  {
+    "id": "candidate_170",
+    "name": "Ricardo Silva",
+    "title": "Software Test Engineer",
+    "summary": "Software test engineer with 4 years of experience in test automation and continuous testing. Expert in Selenium, TestNG, and API testing frameworks. Strong background in mobile and web application testing.",
+    "skills": ["test-automation", "selenium", "testng", "api-testing", "continuous-testing", "mobile-testing", "web-testing", "ci-cd"],
+    "years_experience": 4,
+    "location": {
+      "city": "Braga",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en", "es"],
+    "open_to_remote": false,
+    "desired_salary": 55000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-25T16:30:00Z"
+  },
+  {
+    "id": "candidate_171",
+    "name": "Klara Svoboda",
+    "title": "Machine Learning Engineer",
+    "summary": "ML engineer with 3 years of experience in developing and deploying machine learning models. Expert in Python, scikit-learn, and model optimization. Strong background in recommendation systems and fraud detection.",
+    "skills": ["machine-learning", "python", "scikit-learn", "model-optimization", "recommendation-systems", "fraud-detection", "tensorflow", "aws"],
+    "years_experience": 3,
+    "location": {
+      "city": "Bratislava",
+      "country": "Slovakia"
+    },
+    "languages": ["sk", "en", "cs"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-24T08:45:00Z"
+  },
+  {
+    "id": "candidate_172",
+    "name": "Daniel O'Connor",
+    "title": "Site Reliability Engineer",
+    "summary": "SRE with 4 years of experience in maintaining high-availability systems. Expert in monitoring, alerting, and incident response. Strong background in distributed systems and performance optimization.",
+    "skills": ["sre", "monitoring", "alerting", "incident-response", "distributed-systems", "performance-optimization", "prometheus", "grafana"],
+    "years_experience": 4,
+    "location": {
+      "city": "Galway",
+      "country": "Ireland"
+    },
+    "languages": ["en", "ga"],
+    "open_to_remote": false,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-23T13:20:00Z"
+  },
+  {
+    "id": "candidate_173",
+    "name": "Nina Kozlova",
+    "title": "Frontend Developer",
+    "summary": "Frontend developer with 2 years of experience in modern web development. Proficient in Angular, TypeScript, and responsive design. Strong foundation in computer science and eager to contribute to innovative projects.",
+    "skills": ["angular", "typescript", "responsive-design", "computer-science", "javascript", "css", "html", "rxjs"],
+    "years_experience": 2,
+    "location": {
+      "city": "Tallinn",
+      "country": "Estonia"
+    },
+    "languages": ["et", "en", "ru"],
+    "open_to_remote": true,
+    "desired_salary": 42000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-22T10:05:00Z"
+  },
+  {
+    "id": "candidate_174",
+    "name": "Philippe Leroy",
+    "title": "Data Architect",
+    "summary": "Data architect with 8 years of experience in enterprise data architecture and big data solutions. Expert in data modeling, data governance, and analytics platforms. Strong background in financial services.",
+    "skills": ["data-architecture", "data-modeling", "data-governance", "analytics-platforms", "big-data", "financial-services", "sql", "spark"],
+    "years_experience": 8,
+    "location": {
+      "city": "Brussels",
+      "country": "Belgium"
+    },
+    "languages": ["fr", "nl", "en"],
+    "open_to_remote": true,
+    "desired_salary": 88000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-21T15:50:00Z"
+  },
+  {
+    "id": "candidate_175",
+    "name": "Carlotta Ferrari",
+    "title": "Product Designer",
+    "summary": "Product designer with 3 years of experience in digital product design and user experience. Expert in design systems, prototyping, and user research. Strong background in healthcare and fintech products.",
+    "skills": ["product-design", "user-experience", "design-systems", "prototyping", "user-research", "healthcare", "fintech", "figma"],
+    "years_experience": 3,
+    "location": {
+      "city": "Venice",
+      "country": "Italy"
+    },
+    "languages": ["it", "en", "fr"],
+    "open_to_remote": false,
+    "desired_salary": 54000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-20T12:35:00Z"
+  },
+  {
+    "id": "candidate_176",
+    "name": "Robin Andersson",
+    "title": "Backend Developer",
+    "summary": "Backend developer with 5 years of experience in scalable web services. Expert in Go, microservices, and distributed systems. Strong background in performance optimization and system design.",
+    "skills": ["golang", "microservices", "distributed-systems", "performance-optimization", "system-design", "docker", "kubernetes", "postgresql"],
+    "years_experience": 5,
+    "location": {
+      "city": "Helsingborg",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "da"],
+    "open_to_remote": true,
+    "desired_salary": 70000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-19T09:20:00Z"
+  },
+  {
+    "id": "candidate_177",
+    "name": "Amélie Bernard",
+    "title": "Technical Lead",
+    "summary": "Technical lead with 7 years of experience in software development and team leadership. Expert in Java, Spring Boot, and agile methodologies. Strong mentor and advocate for engineering best practices.",
+    "skills": ["technical-leadership", "java", "spring-boot", "agile", "mentoring", "engineering-best-practices", "code-review", "architecture"],
+    "years_experience": 7,
+    "location": {
+      "city": "Nice",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "it"],
+    "open_to_remote": false,
+    "desired_salary": 82000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-18T14:45:00Z"
+  },
+  {
+    "id": "candidate_178",
+    "name": "Sanne de Jong",
+    "title": "Data Engineer",
+    "summary": "Data engineer with 4 years of experience in building data pipelines and ETL processes. Expert in Python, Apache Airflow, and cloud data platforms. Strong background in streaming data and real-time analytics.",
+    "skills": ["data-engineering", "python", "airflow", "etl", "cloud-data-platforms", "streaming-data", "real-time-analytics", "kafka"],
+    "years_experience": 4,
+    "location": {
+      "city": "Groningen",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": true,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-17T11:30:00Z"
+  },
+  {
+    "id": "candidate_179",
+    "name": "Jack Thompson",
+    "title": "Cybersecurity Analyst",
+    "summary": "Cybersecurity analyst with 3 years of experience in threat detection and security incident response. Expert in SIEM tools, malware analysis, and vulnerability assessment. Strong background in network security.",
+    "skills": ["cybersecurity", "threat-detection", "incident-response", "siem", "malware-analysis", "vulnerability-assessment", "network-security", "forensics"],
+    "years_experience": 3,
+    "location": {
+      "city": "Cardiff",
+      "country": "United Kingdom"
+    },
+    "languages": ["en", "cy"],
+    "open_to_remote": false,
+    "desired_salary": 58000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-03-16T16:15:00Z"
+  },
+  {
+    "id": "candidate_180",
+    "name": "Lena Eriksson",
+    "title": "Game Developer",
+    "summary": "Game developer with 4 years of experience in Unity game development and 3D graphics. Expert in C#, game physics, and mobile game optimization. Published several indie games on Steam and mobile platforms.",
+    "skills": ["game-development", "unity", "csharp", "3d-graphics", "game-physics", "mobile-optimization", "steam", "indie-games"],
+    "years_experience": 4,
+    "location": {
+      "city": "Sundsvall",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "fi"],
+    "open_to_remote": false,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-15T08:50:00Z"
+  },
+  {
+    "id": "candidate_181",
+    "name": "Hugo Moreau",
+    "title": "Solutions Architect",
+    "summary": "Solutions architect with 9 years of experience in enterprise software architecture. Expert in system integration, API design, and cloud migration strategies. Strong background in financial services and healthcare.",
+    "skills": ["solutions-architecture", "system-integration", "api-design", "cloud-migration", "enterprise-software", "financial-services", "healthcare", "microservices"],
+    "years_experience": 9,
+    "location": {
+      "city": "Marseille",
+      "country": "France"
+    },
+    "languages": ["fr", "en", "es"],
+    "open_to_remote": true,
+    "desired_salary": 95000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-14T13:40:00Z"
+  },
+  {
+    "id": "candidate_182",
+    "name": "Bianca Romano",
+    "title": "QA Automation Engineer",
+    "summary": "QA automation engineer with 5 years of experience in test framework development and automation strategy. Expert in Selenium, Cypress, and performance testing. Strong background in CI/CD integration.",
+    "skills": ["qa-automation", "selenium", "cypress", "test-framework", "automation-strategy", "performance-testing", "ci-cd", "jenkins"],
+    "years_experience": 5,
+    "location": {
+      "city": "Catania",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": true,
+    "desired_salary": 62000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-13T10:25:00Z"
+  },
+  {
+    "id": "candidate_183",
+    "name": "Kristian Hansen",
+    "title": "Full Stack Developer",
+    "summary": "Full stack developer with 3 years of experience in web application development. Proficient in React, Python, and PostgreSQL. Strong background in startup environments and rapid prototyping.",
+    "skills": ["react", "python", "postgresql", "full-stack", "startup", "rapid-prototyping", "javascript", "django"],
+    "years_experience": 3,
+    "location": {
+      "city": "Roskilde",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "sv"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-12T15:10:00Z"
+  },
+  {
+    "id": "candidate_184",
+    "name": "Catarina Santos",
+    "title": "UX/UI Designer",
+    "summary": "UX/UI designer with 4 years of experience in digital product design. Expert in user research, design systems, and interaction design. Strong background in B2B SaaS and e-learning platforms.",
+    "skills": ["ux-design", "ui-design", "user-research", "design-systems", "interaction-design", "b2b-saas", "e-learning", "figma"],
+    "years_experience": 4,
+    "location": {
+      "city": "Aveiro",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en", "es"],
+    "open_to_remote": false,
+    "desired_salary": 56000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-11T12:55:00Z"
+  },
+  {
+    "id": "candidate_185",
+    "name": "Jan Horáček",
+    "title": "Network Security Engineer",
+    "summary": "Network security engineer with 6 years of experience in enterprise network security. Expert in firewall management, intrusion detection, and security policy implementation. Certified in CISSP and CCNA Security.",
+    "skills": ["network-security", "firewall-management", "intrusion-detection", "security-policy", "cissp", "ccna-security", "vpn", "threat-analysis"],
+    "years_experience": 6,
+    "location": {
+      "city": "Ostrava",
+      "country": "Czech Republic"
+    },
+    "languages": ["cs", "en", "sk"],
+    "open_to_remote": false,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-10T09:40:00Z"
+  },
+  {
+    "id": "candidate_186",
+    "name": "Emily Roberts",
+    "title": "Product Marketing Manager",
+    "summary": "Product marketing manager with 4 years of experience in B2B software marketing. Expert in go-to-market strategy, competitive analysis, and product positioning. Strong background in SaaS and developer tools.",
+    "skills": ["product-marketing", "go-to-market", "competitive-analysis", "product-positioning", "b2b-marketing", "saas", "developer-tools", "content-marketing"],
+    "years_experience": 4,
+    "location": {
+      "city": "Belfast",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 65000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-03-09T14:25:00Z"
+  },
+  {
+    "id": "candidate_187",
+    "name": "Viktor Lindström",
+    "title": "Platform Engineer",
+    "summary": "Platform engineer with 5 years of experience building internal developer platforms. Expert in Kubernetes, automation, and developer experience optimization. Strong background in infrastructure as code and GitOps.",
+    "skills": ["platform-engineering", "kubernetes", "automation", "developer-experience", "infrastructure-as-code", "gitops", "terraform", "helm"],
+    "years_experience": 5,
+    "location": {
+      "city": "Örebro",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "no"],
+    "open_to_remote": true,
+    "desired_salary": 78000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-08T11:10:00Z"
+  },
+  {
+    "id": "candidate_188",
+    "name": "Léa Dubois",
+    "title": "Data Scientist",
+    "summary": "Data scientist with 3 years of experience in machine learning and statistical modeling. Expert in Python, R, and deep learning frameworks. Strong background in natural language processing and time series analysis.",
+    "skills": ["data-science", "machine-learning", "statistical-modeling", "python", "r", "deep-learning", "nlp", "time-series"],
+    "years_experience": 3,
+    "location": {
+      "city": "Montpellier",
+      "country": "France"
+    },
+    "languages": ["fr", "en"],
+    "open_to_remote": true,
+    "desired_salary": 58000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-07T16:45:00Z"
+  },
+  {
+    "id": "candidate_189",
+    "name": "Alessandro Verdi",
+    "title": "Mobile App Developer",
+    "summary": "Mobile app developer with 4 years of experience in native Android development. Expert in Kotlin, Android Jetpack, and mobile architecture patterns. Strong focus on app performance and user retention.",
+    "skills": ["android", "kotlin", "android-jetpack", "mobile-architecture", "app-performance", "user-retention", "firebase", "play-store"],
+    "years_experience": 4,
+    "location": {
+      "city": "Padua",
+      "country": "Italy"
+    },
+    "languages": ["it", "en"],
+    "open_to_remote": false,
+    "desired_salary": 56000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-06T08:30:00Z"
+  },
+  {
+    "id": "candidate_190",
+    "name": "Lars van der Meer",
+    "title": "Infrastructure Architect",
+    "summary": "Infrastructure architect with 10 years of experience in enterprise IT architecture. Expert in hybrid cloud design, network architecture, and disaster recovery planning. Strong background in large-scale migrations.",
+    "skills": ["infrastructure-architecture", "hybrid-cloud", "network-architecture", "disaster-recovery", "large-scale-migrations", "vmware", "aws", "azure"],
+    "years_experience": 10,
+    "location": {
+      "city": "Breda",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": true,
+    "desired_salary": 98000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-05T13:15:00Z"
+  },
+  {
+    "id": "candidate_191",
+    "name": "Zoe Campbell",
+    "title": "Frontend Developer",
+    "summary": "Frontend developer with 2 years of experience in modern web development. Proficient in Vue.js, JavaScript, and CSS frameworks. Strong foundation in responsive design and accessibility best practices.",
+    "skills": ["vue", "javascript", "css-frameworks", "responsive-design", "accessibility", "html", "sass", "webpack"],
+    "years_experience": 2,
+    "location": {
+      "city": "Plymouth",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 42000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-03-04T10:50:00Z"
+  },
+  {
+    "id": "candidate_192",
+    "name": "Magnus Kristensen",
+    "title": "DevSecOps Engineer",
+    "summary": "DevSecOps engineer with 4 years of experience integrating security into development workflows. Expert in security scanning, compliance automation, and container security. Strong background in threat modeling.",
+    "skills": ["devsecops", "security-scanning", "compliance-automation", "container-security", "threat-modeling", "ci-cd", "docker", "kubernetes"],
+    "years_experience": 4,
+    "location": {
+      "city": "Herning",
+      "country": "Denmark"
+    },
+    "languages": ["da", "en", "de"],
+    "open_to_remote": false,
+    "desired_salary": 72000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-03T15:35:00Z"
+  },
+  {
+    "id": "candidate_193",
+    "name": "Inês Pereira",
+    "title": "Business Analyst",
+    "summary": "Business analyst with 3 years of experience in business process analysis and requirements gathering. Strong background in stakeholder management, documentation, and process optimization. Certified in business analysis.",
+    "skills": ["business-analysis", "process-analysis", "requirements-gathering", "stakeholder-management", "documentation", "process-optimization", "jira", "confluence"],
+    "years_experience": 3,
+    "location": {
+      "city": "Faro",
+      "country": "Portugal"
+    },
+    "languages": ["pt", "en", "es"],
+    "open_to_remote": true,
+    "desired_salary": 52000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-02T12:20:00Z"
+  },
+  {
+    "id": "candidate_194",
+    "name": "Tomáš Dvořák",
+    "title": "Software Engineer",
+    "summary": "Software engineer with 2 years of experience in backend development. Proficient in C#, .NET Core, and SQL Server. Strong foundation in object-oriented programming and design patterns.",
+    "skills": ["csharp", "dotnet-core", "sql-server", "oop", "design-patterns", "entity-framework", "web-api", "unit-testing"],
+    "years_experience": 2,
+    "location": {
+      "city": "České Budějovice",
+      "country": "Czech Republic"
+    },
+    "languages": ["cs", "en", "de"],
+    "open_to_remote": false,
+    "desired_salary": 45000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-03-01T09:05:00Z"
+  },
+  {
+    "id": "candidate_195",
+    "name": "Sienna O'Brien",
+    "title": "Machine Learning Engineer",
+    "summary": "ML engineer with 3 years of experience in AI model development and deployment. Expert in Python, PyTorch, and MLOps practices. Strong background in computer vision and recommendation systems.",
+    "skills": ["machine-learning", "python", "pytorch", "mlops", "computer-vision", "recommendation-systems", "kubernetes", "model-serving"],
+    "years_experience": 3,
+    "location": {
+      "city": "Waterford",
+      "country": "Ireland"
+    },
+    "languages": ["en", "ga"],
+    "open_to_remote": true,
+    "desired_salary": 65000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-02-28T14:40:00Z"
+  },
+  {
+    "id": "candidate_196",
+    "name": "Gustav Holm",
+    "title": "Cloud Engineer",
+    "summary": "Cloud engineer with 4 years of experience in AWS and cloud-native architectures. Expert in serverless computing, containerization, and infrastructure automation. Strong background in cost optimization.",
+    "skills": ["cloud-engineering", "aws", "serverless", "containerization", "infrastructure-automation", "cost-optimization", "lambda", "ecs"],
+    "years_experience": 4,
+    "location": {
+      "city": "Karlstad",
+      "country": "Sweden"
+    },
+    "languages": ["sv", "en", "no"],
+    "open_to_remote": true,
+    "desired_salary": 68000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-02-27T11:25:00Z"
+  },
+  {
+    "id": "candidate_197",
+    "name": "Charlotte Lefèvre",
+    "title": "Product Designer",
+    "summary": "Product designer with 3 years of experience in digital product design and user experience. Expert in design thinking, user research, and design systems. Strong background in fintech and healthcare products.",
+    "skills": ["product-design", "user-experience", "design-thinking", "user-research", "design-systems", "fintech", "healthcare", "figma"],
+    "years_experience": 3,
+    "location": {
+      "city": "Liège",
+      "country": "Belgium"
+    },
+    "languages": ["fr", "nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 56000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-02-26T16:10:00Z"
+  },
+  {
+    "id": "candidate_198",
+    "name": "Francesco Bianchi",
+    "title": "Senior Backend Developer",
+    "summary": "Senior backend developer with 8 years of experience in distributed systems and microservices. Expert in Java, Spring Boot, and event-driven architecture. Strong background in high-throughput systems.",
+    "skills": ["java", "spring-boot", "distributed-systems", "microservices", "event-driven-architecture", "high-throughput", "kafka", "elasticsearch"],
+    "years_experience": 8,
+    "location": {
+      "city": "Genoa",
+      "country": "Italy"
+    },
+    "languages": ["it", "en", "fr"],
+    "open_to_remote": true,
+    "desired_salary": 85000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-02-25T08:55:00Z"
+  },
+  {
+    "id": "candidate_199",
+    "name": "Anouk Visser",
+    "title": "Data Engineer",
+    "summary": "Data engineer with 5 years of experience in big data platforms and analytics. Expert in Apache Spark, Hadoop, and cloud data services. Strong background in data pipeline optimization and real-time processing.",
+    "skills": ["data-engineering", "spark", "hadoop", "cloud-data-services", "pipeline-optimization", "real-time-processing", "scala", "airflow"],
+    "years_experience": 5,
+    "location": {
+      "city": "Haarlem",
+      "country": "Netherlands"
+    },
+    "languages": ["nl", "en"],
+    "open_to_remote": false,
+    "desired_salary": 75000,
+    "right_to_work_eu": true,
+    "last_updated": "2025-02-24T13:30:00Z"
+  },
+  {
+    "id": "candidate_200",
+    "name": "William Davis",
+    "title": "Senior Software Engineer",
+    "summary": "Senior software engineer with 9 years of experience in enterprise software development. Expert in multiple programming languages and architectural patterns. Strong technical leadership and mentoring skills.",
+    "skills": ["software-engineering", "technical-leadership", "mentoring", "architectural-patterns", "java", "python", "microservices", "system-design"],
+    "years_experience": 9,
+    "location": {
+      "city": "Sheffield",
+      "country": "United Kingdom"
+    },
+    "languages": ["en"],
+    "open_to_remote": true,
+    "desired_salary": 88000,
+    "right_to_work_eu": false,
+    "last_updated": "2025-02-23T10:15:00Z"
+  }
+]

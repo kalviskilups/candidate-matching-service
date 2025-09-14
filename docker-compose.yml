@@ -1,0 +1,45 @@
+services:
+  weaviate:
+    command:
+      - --host
+      - 0.0.0.0
+      - --port
+      - '8080'
+      - --scheme
+      - http
+    image: cr.weaviate.io/semitechnologies/weaviate:1.32.8
+    restart: on-failure:0
+    ports:
+      - "8080:8080"
+      - "50051:50051"
+    environment:
+      QUERY_DEFAULTS_LIMIT: 25
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
+      DEFAULT_VECTORIZER_MODULE: 'none'
+      ENABLE_API_BASED_MODULES: 'true'
+      CLUSTER_HOSTNAME: 'node1'
+    volumes:
+      - weaviate_data:/var/lib/weaviate
+
+  api:
+    image: python:3.12-slim
+    ports:
+      - "8000:8000"
+    depends_on:
+      - weaviate
+    environment:
+      WEAVIATE_URL: "http://weaviate:8080"
+      FUSION_METHOD: ${FUSION_METHOD:-relative_score}  # Options: "relative_score" or "ranked"
+    volumes:
+      - ./:/app
+    working_dir: /app
+    command: >
+      bash -c "
+      pip install uv &&
+      uv sync &&
+      uv run uvicorn main:app --host 0.0.0.0 --port 8000
+      "
+
+volumes:
+  weaviate_data:
