@@ -51,7 +51,7 @@ graph TB
 ### Project Structure
 
 ```
-candidate-matching/
+candidate-matching-service/
 ├── api/                    # FastAPI application
 │   ├── app.py             # Application factory with lifespan management
 │   ├── models/            # Pydantic schemas for data validation
@@ -74,7 +74,7 @@ candidate-matching/
 
 ```bash
 git clone https://github.com/kalviskilups/candidate-matching-service.git
-cd candidate-matching
+cd candidate-matching-service
 cp .env.example .env
 docker compose up
 ```
@@ -136,7 +136,7 @@ curl "http://localhost:8000/search/candidates?q=devops+infrastructure&k=3&skills
 
 ### More Examples
 
-For comprehensive examples including semantic search, filtering combinations, and performance demonstrations, see the included `example_calls.sh` script.
+For comprehensive examples including semantic search, filtering combinations, and performance demonstrations, see the included `example_calls.sh` script. Keep in mind that the script also contains the ingestion step, which will result in duplicates if you run it after basic examples. Clear the index and run the script or remove the ingestion step for optimal tests.
 
 **Example response showing hybrid scores:**
 
@@ -532,6 +532,8 @@ uv run pytest --cov=. -v
 ```bash
 # Install pre-commit hooks
 uv run pre-commit install
+
+uv run pre-commit
 
 # Run formatting and linting
 uv run ruff check .
